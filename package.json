@@ -1,0 +1,21 @@
+{
+  "name": "bh-skole",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Data on Schools in Bosnia",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node generate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qafana/bh-skole.git"
+  },
+  "author": "Qafana",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Qafana/bh-skole/issues"
+  },
+  "homepage": "https://github.com/Qafana/bh-skole#readme"
+}

@@ -14,3 +14,14 @@ These are the links from which the data was gathered:
 - ZHK: https://zavod-zzoo.com/index.php/blog/osnovne-skole
 - K10: https://zavod-zzoo.com/index.php/blog/osnovne-skole
 - RS: https://www.rpz-rs.org/270/
+
+# Contributing
+
+If you have any information about schools in Bosnia and Herzegovina, feel free to contribute. You can do so by editing `schools.js` file and executing `npm run generate` to generate new files in `data` folder.
+
+If you have any other information, feel free to open an issue or a pull request. If you are not sure, but you have information or suggestion you would like to share, feel free to drop an email to info@qafana.com
+
+# License
+
+This repository is licensed under GPL-v3 license. You can find the license in `LICENSE` file. 
+```

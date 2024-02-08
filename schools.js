@@ -23,7 +23,8 @@ export const schools = [
     Longitude: "18.37751985",
     Phone: "38733650196",
     Email: "",
-    WebAddress: "http://www.vladimirnazor.edu.ba"
+    WebAddress: "http://www.vladimirnazor.edu.ba",
+    Owner: ""
   },
   {
     Name: "Centar za slijepu i slabovidnu djecu i omladinu",
@@ -36,7 +37,8 @@ export const schools = [
     Longitude: "18.33657861",
     Phone: "38733473019",
     Email: "",
-    Url: "http://www.czsd.edu.ba"
+    Url: "http://www.czsd.edu.ba",
+    Owner: ""
   },
   {
     Name: "Centar za slušnu i govornu rehabilitaciju",
@@ -49,7 +51,8 @@ export const schools = [
     Longitude: "18.41514587",
     Phone: "38733664523",
     Email: "",
-    Url: "http://www.cersig.edu.ba"
+    Url: "http://www.cersig.edu.ba",
+    Owner: ""
   },
   {
     Name: "Četvrta osnovna škola - Ilidža",
@@ -62,7 +65,8 @@ export const schools = [
     Longitude: "18.32296371",
     Phone: "38733698202",
     Email: "",
-    Url: "http://www.oscetvrta.edu.ba"
+    Url: "http://www.oscetvrta.edu.ba",
+    Owner: ""
   },
   {
     Name: "Deseta osnovna škola Ilidža",
@@ -75,7 +79,8 @@ export const schools = [
     Longitude: "18.27739835",
     Phone: "38733564540",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Deveta osnovna škola",
@@ -88,7 +93,8 @@ export const schools = [
     Longitude: "18.227005",
     Phone: "38733428415",
     Email: "",
-    Url: "http://www.osdeveta.edu.ba"
+    Url: "http://www.osdeveta.edu.ba",
+    Owner: ""
   },
   {
     Name: "Druga osnovna škola",
@@ -101,7 +107,8 @@ export const schools = [
     Longitude: "18.31140876",
     Phone: "38733514137",
     Email: "",
-    Url: "http://www.osdruga.edu.ba"
+    Url: "http://www.osdruga.edu.ba",
+    Owner: ""
   },
   {
     Name: "Francuska osnovna škola CIFS Sarajevo",
@@ -114,7 +121,8 @@ export const schools = [
     Longitude: "18.3726114",
     Phone: "38733444405",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Aneks'",
@@ -127,7 +135,8 @@ export const schools = [
     Longitude: "18.37163504",
     Phone: "38733658883",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Katolicki školski  centar - Osnovna škola Centar",
@@ -140,7 +149,8 @@ export const schools = [
     Longitude: "18.42247367",
     Phone: "38733665521",
     Email: "",
-    Url: "http://www.ksc-sarajevo.edu.ba"
+    Url: "http://www.ksc-sarajevo.edu.ba",
+    Owner: ""
   },
   {
     Name: "Međunarodna njemačka škola Sarajevo - Internationale Deutsche Schule Sarajevo",
@@ -153,7 +163,8 @@ export const schools = [
     Longitude: "18.4195447",
     Phone: "38733560520",
     Email: "",
-    Url: "http://idss.ba"
+    Url: "http://idss.ba",
+    Owner: ""
   },
   {
     Name: "Medjunarodna osnovna škola 'Richmond Park International Primary school'",
@@ -166,7 +177,8 @@ export const schools = [
     Longitude: "18.39425683",
     Phone: "38733944140",
     Email: "",
-    Url: "http://www.internationalschool.ba"
+    Url: "http://www.internationalschool.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Mehmed Handžić'",
@@ -179,7 +191,8 @@ export const schools = [
     Longitude: "18.30249309",
     Phone: "38733626077",
     Email: "",
-    Url: "http://www.osmh.edu.ba"
+    Url: "http://www.osmh.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Ðulistan'",
@@ -192,7 +205,8 @@ export const schools = [
     Longitude: "18.23356032",
     Phone: "38733403321",
     Email: "",
-    Url: "http://www.djulistan.edu.ba"
+    Url: "http://www.djulistan.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Hadžići'",
@@ -205,7 +219,8 @@ export const schools = [
     Longitude: "18.20876595",
     Phone: "38733408811",
     Email: "",
-    Url: "http://oshadzici.edu.ba"
+    Url: "http://oshadzici.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ '6.mart' Hadžići",
@@ -218,7 +233,8 @@ export const schools = [
     Longitude: "18.19971085",
     Phone: "38733420120",
     Email: "",
-    Url: "http://www.os6mart.edu.ba"
+    Url: "http://www.os6mart.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ '9. maj' Hadžići-Pazarić",
@@ -231,7 +247,8 @@ export const schools = [
     Longitude: "18.15194607",
     Phone: "38733417527",
     Email: "",
-    Url: "http://www.os9majpa.edu.ba"
+    Url: "http://www.os9majpa.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Al-Walidein-Gazzaz'",
@@ -244,7 +261,8 @@ export const schools = [
     Longitude: "18.3501023",
     Phone: "38733235507",
     Email: "",
-    Url: "http://www.osgazzaz.edu.ba"
+    Url: "http://www.osgazzaz.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Aleksa Šantić'",
@@ -257,7 +275,8 @@ export const schools = [
     Longitude: "18.33770513",
     Phone: "38733456533",
     Email: "",
-    Url: "http://www.osas.edu.ba"
+    Url: "http://www.osas.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Alija Nametak'",
@@ -270,7 +289,8 @@ export const schools = [
     Longitude: "18.42203379",
     Phone: "38733562297",
     Email: "",
-    Url: "http://www.osansa.edu.ba"
+    Url: "http://www.osansa.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Avdo Smailović'",
@@ -283,7 +303,8 @@ export const schools = [
     Longitude: "18.36440384",
     Phone: "38733619155",
     Email: "",
-    Url: "http://www.osasmailovic.edu.ba"
+    Url: "http://www.osasmailovic.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Behaudin Selmanović'",
@@ -296,7 +317,8 @@ export const schools = [
     Longitude: "18.32325339",
     Phone: "38733780020",
     Email: "",
-    Url: "http://www.osbs.edu.ba"
+    Url: "http://www.osbs.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Ćamil Sijarić'",
@@ -309,7 +331,8 @@ export const schools = [
     Longitude: "18.3403337",
     Phone: "38733544301",
     Email: "",
-    Url: "http://www.oscsijaricsa.edu.ba"
+    Url: "http://www.oscsijaricsa.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Čengić Vila I'",
@@ -322,7 +345,8 @@ export const schools = [
     Longitude: "18.36882949",
     Phone: "38733653759",
     Email: "",
-    Url: "http://www.oscvila1.edu.ba"
+    Url: "http://www.oscvila1.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Džemaludin Čaušević'",
@@ -335,7 +359,8 @@ export const schools = [
     Longitude: "18.35541844",
     Phone: "38733611651",
     Email: "",
-    Url: "http://www.oscausevic.edu.ba"
+    Url: "http://www.oscausevic.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Edhem Mulabdić'",
@@ -348,7 +373,8 @@ export const schools = [
     Longitude: "18.43124986",
     Phone: "38733236044",
     Email: "",
-    Url: "http://www.osem.edu.ba"
+    Url: "http://www.osem.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Fatima Gunić'",
@@ -361,7 +387,8 @@ export const schools = [
     Longitude: "18.34545135",
     Phone: "38733545181",
     Email: "",
-    Url: "http://www.osfg.edu.ba"
+    Url: "http://www.osfg.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Grbavica II'",
@@ -374,7 +401,8 @@ export const schools = [
     Longitude: "18.38928938",
     Phone: "38733642642",
     Email: "",
-    Url: "http://www.osgrbavica2.edu.ba"
+    Url: "http://www.osgrbavica2.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Grbavica I'",
@@ -387,7 +415,8 @@ export const schools = [
     Longitude: "18.39707851",
     Phone: "38733661278",
     Email: "",
-    Url: "http://osgrbavica1.edu.ba"
+    Url: "http://osgrbavica1.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Hamdija Kreševljaković'",
@@ -400,7 +429,8 @@ export const schools = [
     Longitude: "18.44324469",
     Phone: "38733272720",
     Email: "",
-    Url: "http://www.oshk.edu.ba"
+    Url: "http://www.oshk.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Hasan Kaimija'",
@@ -413,7 +443,8 @@ export const schools = [
     Longitude: "18.41786027",
     Phone: "38733559906",
     Email: "",
-    Url: "http://www.oshkaimija.edu.ba"
+    Url: "http://www.oshkaimija.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Hasan Kikić'",
@@ -426,7 +457,8 @@ export const schools = [
     Longitude: "18.41036618",
     Phone: "38733445137",
     Email: "",
-    Url: "http://www.oshkikic.edu.ba"
+    Url: "http://www.oshkikic.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Hašim Spahić' Ilijaš",
@@ -439,7 +471,8 @@ export const schools = [
     Longitude: "18.2681179",
     Phone: "38733400996",
     Email: "",
-    Url: "http://www.oshs.edu.ba"
+    Url: "http://www.oshs.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Hilmi ef. Šarić' Hadžići-Tarčin",
@@ -452,7 +485,8 @@ export const schools = [
     Longitude: "18.09267998",
     Phone: "38733428395",
     Email: "",
-    Url: "http://www.oshilmi.edu.ba"
+    Url: "http://www.oshilmi.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Hrasno'",
@@ -465,7 +499,8 @@ export const schools = [
     Longitude: "18.38244438",
     Phone: "38733647451",
     Email: "",
-    Url: "http://www.oshrasno.edu.ba"
+    Url: "http://www.oshrasno.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Isa-beg Ishaković'",
@@ -478,7 +513,8 @@ export const schools = [
     Longitude: "18.38854909",
     Phone: "38733652231",
     Email: "",
-    Url: "http://www.isabeg.edu.ba"
+    Url: "http://www.isabeg.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Isak Samokovlija'",
@@ -491,7 +527,8 @@ export const schools = [
     Longitude: "18.40625703",
     Phone: "38733212499",
     Email: "",
-    Url: "http://www.osis.edu.ba"
+    Url: "http://www.osis.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Izet Šabić' Hotonj - Vogošća",
@@ -504,7 +541,8 @@ export const schools = [
     Longitude: "18.37167263",
     Phone: "38733481090",
     Email: "",
-    Url: "http://www.osizetsabic.edu.ba"
+    Url: "http://www.osizetsabic.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Kovačići'",
@@ -517,7 +555,8 @@ export const schools = [
     Longitude: "18.39882731",
     Phone: "38733615878",
     Email: "",
-    Url: "http://www.oskovacici.edu.ba"
+    Url: "http://www.oskovacici.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Malta'",
@@ -530,7 +569,8 @@ export const schools = [
     Longitude: "18.37939739",
     Phone: "38733613502",
     Email: "",
-    Url: "http://www.osmalta.edu.ba"
+    Url: "http://www.osmalta.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Mehmed beg Kapetanović Ljubušak'",
@@ -543,7 +583,8 @@ export const schools = [
     Longitude: "18.40596199",
     Phone: "38733220491",
     Email: "",
-    Url: "http://www.osmbklj.edu.ba"
+    Url: "http://www.osmbklj.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Mehmedalija Mak Dizdar'",
@@ -556,7 +597,8 @@ export const schools = [
     Longitude: "18.36530507",
     Phone: "38733644897",
     Email: "",
-    Url: "http://www.osmmdsa.edu.ba"
+    Url: "http://www.osmmdsa.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Meša Selimović'",
@@ -569,7 +611,8 @@ export const schools = [
     Longitude: "18.35139513",
     Phone: "38733543113",
     Email: "",
-    Url: "http://www.osmssa.edu.ba"
+    Url: "http://www.osmssa.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Mirsad Prnjavorac' - Vogošća",
@@ -582,7 +625,8 @@ export const schools = [
     Longitude: "18.34326267",
     Phone: "38733430910",
     Email: "",
-    Url: "http://www.osmp.edu.ba"
+    Url: "http://www.osmp.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Mula Mustafa Bašeskija'",
@@ -595,7 +639,8 @@ export const schools = [
     Longitude: "18.42804193",
     Phone: "38733238151",
     Email: "",
-    Url: "http://www.osmmbsa.edu.ba"
+    Url: "http://www.osmmbsa.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Musa Ćazim Ćatić'",
@@ -608,7 +653,8 @@ export const schools = [
     Longitude: "18.41543555",
     Phone: "38733216567",
     Email: "",
-    Url: "http://www.osmccsa.edu.ba"
+    Url: "http://www.osmccsa.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Mustafa Busuladžić'",
@@ -621,7 +667,8 @@ export const schools = [
     Longitude: "18.28667879",
     Phone: "38733629574",
     Email: "",
-    Url: "http://www.osdobrosevici.edu.ba"
+    Url: "http://www.osdobrosevici.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Nafija Sarajlić'",
@@ -634,7 +681,8 @@ export const schools = [
     Longitude: "18.41244757",
     Phone: "38733209232",
     Email: "",
-    Url: "http://www.osnsarajlic.edu.ba"
+    Url: "http://www.osnsarajlic.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Osman Nakaš'",
@@ -647,7 +695,8 @@ export const schools = [
     Longitude: "18.3716619",
     Phone: "38733641287",
     Email: "",
-    Url: "http://www.osonakas.edu.ba"
+    Url: "http://www.osonakas.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Osman Nuri Hadžić'",
@@ -660,7 +709,8 @@ export const schools = [
     Longitude: "18.3541739",
     Phone: "38733460362",
     Email: "",
-    Url: "http://www.osonh.edu.ba"
+    Url: "http://www.osonh.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Podlugovi' Ilijaš",
@@ -673,7 +723,8 @@ export const schools = [
     Longitude: "18.25951338",
     Phone: "38733401017",
     Email: "",
-    Url: "http://www.ospodlugovi.edu.ba"
+    Url: "http://www.ospodlugovi.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Pofalići'",
@@ -686,7 +737,8 @@ export const schools = [
     Longitude: "18.38947177",
     Phone: "38733644163",
     Email: "",
-    Url: "http://www.ospofalici.edu.ba"
+    Url: "http://www.ospofalici.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Porodice ef. Ramić' - Vogošća",
@@ -699,7 +751,8 @@ export const schools = [
     Longitude: "18.31919789",
     Phone: "38733430993",
     Email: "",
-    Url: "http://www.osramic.edu.ba"
+    Url: "http://www.osramic.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Saburina'",
@@ -712,7 +765,8 @@ export const schools = [
     Longitude: "18.43593836",
     Phone: "38733538340",
     Email: "",
-    Url: "http://www.ossaburina.edu.ba"
+    Url: "http://www.ossaburina.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Safvet beg Bašagić'",
@@ -725,7 +779,8 @@ export const schools = [
     Longitude: "18.42371285",
     Phone: "38733205923",
     Email: "",
-    Url: "http://www.ossbb.edu.ba"
+    Url: "http://www.ossbb.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'šejh Muhamed ef. Hadžijamaković'",
@@ -738,7 +793,8 @@ export const schools = [
     Longitude: "18.43701124",
     Phone: "38733532324",
     Email: "",
-    Url: "http://www.ossmeh.edu.ba"
+    Url: "http://www.ossmeh.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Skender Kulenović'",
@@ -751,7 +807,8 @@ export const schools = [
     Longitude: "18.34634185",
     Phone: "38733451600",
     Email: "",
-    Url: "http://www.os-sk.edu.ba"
+    Url: "http://www.os-sk.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Sokolje'",
@@ -764,7 +821,8 @@ export const schools = [
     Longitude: "18.3164835",
     Phone: "38733765540",
     Email: "",
-    Url: "http://www.ossokolje.edu.ba"
+    Url: "http://www.ossokolje.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Srednje' Ilijaš",
@@ -777,7 +835,8 @@ export const schools = [
     Longitude: "18.43626022",
     Phone: "38733489047",
     Email: "",
-    Url: "http://www.ossrednje.edu.ba"
+    Url: "http://www.ossrednje.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Umihana Čuvidina'",
@@ -790,7 +849,8 @@ export const schools = [
     Longitude: "18.3445394",
     Phone: "38733541009",
     Email: "",
-    Url: "http://www.osuc.edu.ba"
+    Url: "http://www.osuc.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Velešićki heroji'",
@@ -803,7 +863,8 @@ export const schools = [
     Longitude: "18.39685857",
     Phone: "38733214598",
     Email: "",
-    Url: "http://www.osvh.edu.ba"
+    Url: "http://www.osvh.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Vladislav Skarić'",
@@ -816,7 +877,8 @@ export const schools = [
     Longitude: "18.40929866",
     Phone: "38733212031",
     Email: "",
-    Url: "http://www.osvs.edu.ba"
+    Url: "http://www.osvs.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Vrhbosna'",
@@ -829,7 +891,8 @@ export const schools = [
     Longitude: "18.46026063",
     Phone: "38733240100",
     Email: "",
-    Url: "http://www.osvrhbosna.edu.ba"
+    Url: "http://www.osvrhbosna.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Zahid Baručija' - Vogošća",
@@ -842,7 +905,8 @@ export const schools = [
     Longitude: "18.34886312",
     Phone: "38733432650",
     Email: "",
-    Url: "http://www.oszb.edu.ba"
+    Url: "http://www.oszb.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Zaim Kolar' - Trnovo",
@@ -855,7 +919,8 @@ export const schools = [
     Longitude: "18.34131539",
     Phone: "38733438001",
     Email: "",
-    Url: "http://www.oszk.edu.ba"
+    Url: "http://www.oszk.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Zajko Delić' - Vogošća",
@@ -868,7 +933,8 @@ export const schools = [
     Longitude: "18.38522315",
     Phone: "38733426830",
     Email: "",
-    Url: "http://www.oszd.edu.ba"
+    Url: "http://www.oszd.edu.ba",
+    Owner: ""
   },
   {
     Name: "Osma osnovna škola 'Amer Ćenanović' - Ilidža",
@@ -881,7 +947,8 @@ export const schools = [
     Longitude: "18.32060337",
     Phone: "38733771316",
     Email: "",
-    Url: "http://www.osmaosnovnail.edu.ba"
+    Url: "http://www.osmaosnovnail.edu.ba",
+    Owner: ""
   },
   {
     Name: "Osnovna muzička i baletska škola - Novo Sarajevo",
@@ -894,7 +961,8 @@ export const schools = [
     Longitude: "18.38864565",
     Phone: "38733651523",
     Email: "",
-    Url: "http://www.osmbaletska.edu.ba"
+    Url: "http://www.osmbaletska.edu.ba",
+    Owner: ""
   },
   {
     Name: "Osnovna muzička škola  - Ilidža",
@@ -907,7 +975,8 @@ export const schools = [
     Longitude: "18.30635548",
     Phone: "38733623400",
     Email: "",
-    Url: "http://www.muzickail.edu.ba"
+    Url: "http://www.muzickail.edu.ba",
+    Owner: ""
   },
   {
     Name: "Osnovna muzička škola 'Mladen Pozajić'",
@@ -920,7 +989,8 @@ export const schools = [
     Longitude: "18.42482328",
     Phone: "38733212410",
     Email: "",
-    Url: "http://www.omsmp.edu.ba"
+    Url: "http://www.omsmp.edu.ba",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Maarif'",
@@ -933,7 +1003,8 @@ export const schools = [
     Longitude: "18.34920641",
     Phone: "38762271004",
     Email: "",
-    Url: "http://www.maarifschools.edu.ba"
+    Url: "http://www.maarifschools.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Silvije Strahimir Kranjčević'",
@@ -946,7 +1017,8 @@ export const schools = [
     Longitude: "18.4214437",
     Phone: "38733219825",
     Email: "",
-    Url: "http://www.ossskranjcevic.edu.ba"
+    Url: "http://www.ossskranjcevic.edu.ba",
+    Owner: ""
   },
   {
     Name: "Peta osnovna škola - Ilidža",
@@ -959,7 +1031,8 @@ export const schools = [
     Longitude: "18.31111908",
     Phone: "38733515177",
     Email: "",
-    Url: "http://www.ospeta.edu.ba"
+    Url: "http://www.ospeta.edu.ba",
+    Owner: ""
   },
   {
     Name: "Privatna osnovna škola 'Bloom'",
@@ -972,7 +1045,8 @@ export const schools = [
     Longitude: "18.44050884",
     Phone: "38733207899",
     Email: "",
-    Url: "http://www.bloom.edu.ba"
+    Url: "http://www.bloom.edu.ba",
+    Owner: ""
   },
   {
     Name: "Prva osnovna škola - Ilidža",
@@ -985,7 +1059,8 @@ export const schools = [
     Longitude: "18.28748345",
     Phone: "38733639575",
     Email: "",
-    Url: "http://www.osprvail.edu.ba"
+    Url: "http://www.osprvail.edu.ba",
+    Owner: ""
   },
   {
     Name: "Quality Schools International - International School of Sarajevo (QSIS Sarajevo)",
@@ -998,7 +1073,8 @@ export const schools = [
     Longitude: "18.34923863",
     Phone: "38733424450",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Sedma osnovna škola - Ilidža",
@@ -1011,7 +1087,8 @@ export const schools = [
     Longitude: "18.24521184",
     Phone: "38733761630",
     Email: "",
-    Url: "http://www.sedma-osnovna.edu.ba"
+    Url: "http://www.sedma-osnovna.edu.ba",
+    Owner: ""
   },
   {
     Name: "Šesta osnovna škola  - Ilidža",
@@ -1024,7 +1101,8 @@ export const schools = [
     Longitude: "18.30562591",
     Phone: "38733623405",
     Email: "",
-    Url: "http://www.ossesta.edu.ba"
+    Url: "http://www.ossesta.edu.ba",
+    Owner: ""
   },
   {
     Name: "Treća osnovna škola - Ilidža",
@@ -1037,7 +1115,8 @@ export const schools = [
     Longitude: "18.30261111",
     Phone: "38733638479",
     Email: "",
-    Url: "http://www.trecaosnovna.edu.ba"
+    Url: "http://www.trecaosnovna.edu.ba",
+    Owner: ""
   },
   {
     Name: "Zavod  'Mjedenica'",
@@ -1050,7 +1129,8 @@ export const schools = [
     Longitude: "18.42464089",
     Phone: "38733207963",
     Email: "",
-    Url: "http://www.zamjed.edu.ba"
+    Url: "http://www.zamjed.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Musa Ćazim Ćatić'",
@@ -1063,7 +1143,8 @@ export const schools = [
     Longitude: "17.9067343",
     Phone: "38732401106",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mak Dizdar",
@@ -1076,7 +1157,8 @@ export const schools = [
     Longitude: "17.9190767",
     Phone: "38732460348",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ 'Meša Selimović'",
@@ -1089,7 +1171,8 @@ export const schools = [
     Longitude: "17.9111923",
     Phone: "38732408020",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Arnauti",
@@ -1102,7 +1185,8 @@ export const schools = [
     Longitude: "18.0509696",
     Phone: "38732439021",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Vladimir Nazor",
@@ -1115,7 +1199,8 @@ export const schools = [
     Longitude: "17.9084459",
     Phone: "38732445210",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Miroslav Krleža",
@@ -1128,7 +1213,8 @@ export const schools = [
     Longitude: "17.9003569",
     Phone: "38732401536",
     Email: "",
-    Url: "http://www.osmkze.com.ba/"
+    Url: "http://www.osmkze.com.ba/",
+    Owner: ""
   },
   {
     Name: "Hasan Kikić - Tetovo",
@@ -1141,7 +1227,8 @@ export const schools = [
     Longitude: "17.8882179",
     Phone: "38732460585",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Skender Kulenović",
@@ -1154,7 +1241,8 @@ export const schools = [
     Longitude: "17.9319063",
     Phone: "38732426920",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Alija Nametak - Pehare",
@@ -1167,7 +1255,8 @@ export const schools = [
     Longitude: "17.91374",
     Phone: "38732456156",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Enver Čolaković - Janjići",
@@ -1180,7 +1269,8 @@ export const schools = [
     Longitude: "17.961556",
     Phone: "38732453004",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Hamza Humo - Babino",
@@ -1193,7 +1283,8 @@ export const schools = [
     Longitude: "18.008291",
     Phone: "38732436126",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Ćamil Sijarić - Nemila",
@@ -1206,7 +1297,8 @@ export const schools = [
     Longitude: "17.912249",
     Phone: "38732465001",
     Email: "",
-    Url: "http://oscsijaricsa.edu.ba/"
+    Url: "http://oscsijaricsa.edu.ba/",
+    Owner: ""
   },
   {
     Name: "Aleksa Šantić - Perin Han",
@@ -1219,7 +1311,8 @@ export const schools = [
     Longitude: "17.96769",
     Phone: "38732465035",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Ahmed Muradbegović - Stranjani",
@@ -1232,7 +1325,8 @@ export const schools = [
     Longitude: "17.848248",
     Phone: "38732434042",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna muzička škola",
@@ -1245,7 +1339,8 @@ export const schools = [
     Longitude: "17.905116",
     Phone: "38732242307",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna specijalna škola",
@@ -1258,7 +1353,8 @@ export const schools = [
     Longitude: "17.907568",
     Phone: "38732407985",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Hamdija Kresevljaković",
@@ -1271,7 +1367,8 @@ export const schools = [
     Longitude: "18.114953",
     Phone: "38732552860",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Rešad Kadić - Brnjić",
@@ -1284,7 +1381,8 @@ export const schools = [
     Longitude: "18.104922",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Ahmed Muradbegović",
@@ -1297,7 +1395,8 @@ export const schools = [
     Longitude: "17.848149",
     Phone: "38732434042",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mula Mustafa Bašeskija",
@@ -1310,7 +1409,8 @@ export const schools = [
     Longitude: "18.125003",
     Phone: "38732557440",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Omer Music - Ricice",
@@ -1323,7 +1423,8 @@ export const schools = [
     Longitude: "18.150561",
     Phone: "38732777118",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "15. April",
@@ -1336,7 +1437,8 @@ export const schools = [
     Longitude: "18.108726",
     Phone: "38732775443",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Alija Nametak",
@@ -1349,7 +1451,8 @@ export const schools = [
     Longitude: "17.991515",
     Phone: "38732894291",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Abdulvehab Ilhamija",
@@ -1362,7 +1465,8 @@ export const schools = [
     Longitude: "17.933023",
     Phone: "38762670377",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Žepče",
@@ -1375,7 +1479,8 @@ export const schools = [
     Longitude: "18.03866",
     Phone: "38762881724",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Glazbena škola Katarina Kosača Kotromanić",
@@ -1388,7 +1493,8 @@ export const schools = [
     Longitude: "18.032024",
     Phone: "38732880453",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Prva osnovna škola - Zavidovići",
@@ -1401,7 +1507,8 @@ export const schools = [
     Longitude: "18.145461",
     Phone: "38732878808",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Druga osnovna škola - Zavidovići",
@@ -1414,7 +1521,8 @@ export const schools = [
     Longitude: "18.143168",
     Phone: "38732877728",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Kovači",
@@ -1427,7 +1535,8 @@ export const schools = [
     Longitude: "18.212264",
     Phone: "38732871425",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Vozuća-Ribnica",
@@ -1440,7 +1549,8 @@ export const schools = [
     Longitude: "18.361034",
     Phone: "38732856375",
     Email: "",
-    Url: "https://www.osvozuca.edu.ba/"
+    Url: "https://www.osvozuca.edu.ba/",
+    Owner: ""
   },
   {
     Name: "Hajdarevići",
@@ -1453,7 +1563,8 @@ export const schools = [
     Longitude: "18.250745",
     Phone: "38732465076",
     Email: "pkonak@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ 'Gostović'",
@@ -1466,7 +1577,8 @@ export const schools = [
     Longitude: "18.16544",
     Phone: "38732465114",
     Email: "osgostovic@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Maglaj",
@@ -1479,7 +1591,8 @@ export const schools = [
     Longitude: "18.09808",
     Phone: "38732603465",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Prva osnovna škola",
@@ -1492,7 +1605,8 @@ export const schools = [
     Longitude: "18.100586",
     Phone: "38732603386",
     Email: "",
-    Url: "prvaosmaglaj.com.ba"
+    Url: "prvaosmaglaj.com.ba",
+    Owner: ""
   },
   {
     Name: "Novi šeher",
@@ -1505,7 +1619,8 @@ export const schools = [
     Longitude: "18.025988",
     Phone: "38732611803",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Mustafa Mulić",
@@ -1518,7 +1633,8 @@ export const schools = [
     Longitude: "18.070627",
     Phone: "38732694004",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Abdulvehab Ilhamija",
@@ -1531,7 +1647,8 @@ export const schools = [
     Longitude: "17.905839",
     Phone: "38732664178",
     Email: "",
-    Url: "http://osaik.com.ba"
+    Url: "http://osaik.com.ba",
+    Owner: ""
   },
   {
     Name: "Gazi Ferhat-beg",
@@ -1544,7 +1661,8 @@ export const schools = [
     Longitude: "18.022431",
     Phone: "38732651087",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "9. Septembar",
@@ -1557,7 +1675,8 @@ export const schools = [
     Longitude: "18.015077",
     Phone: "38732662094",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Rešad Kadić",
@@ -1570,7 +1689,8 @@ export const schools = [
     Longitude: "17.986338",
     Phone: "38732650274",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "1. Mart",
@@ -1583,7 +1703,8 @@ export const schools = [
     Longitude: "17.962843",
     Phone: "38732663210",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Kulin Ban",
@@ -1596,7 +1717,8 @@ export const schools = [
     Longitude: "18.011593",
     Phone: "38732662034",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Džemal Bijedić",
@@ -1609,7 +1731,8 @@ export const schools = [
     Longitude: "17.929884",
     Phone: "38732668888",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Huso Hodžić",
@@ -1622,7 +1745,8 @@ export const schools = [
     Longitude: "17.987963",
     Phone: "38732656290",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "21. Mart",
@@ -1635,7 +1759,8 @@ export const schools = [
     Longitude: "18.048945",
     Phone: "38732691909",
     Email: "os21mart@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Safvet-beg Bašagić",
@@ -1648,7 +1773,8 @@ export const schools = [
     Longitude: "18.177246",
     Phone: "38732738423",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Kulin Ban",
@@ -1661,7 +1787,8 @@ export const schools = [
     Longitude: "18.176903",
     Phone: "38732731050",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mula Mustafa Bašeskija",
@@ -1674,7 +1801,8 @@ export const schools = [
     Longitude: "18.131581",
     Phone: "38732740987",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Musa Ćazim Ćatić",
@@ -1687,7 +1815,8 @@ export const schools = [
     Longitude: "18.201443",
     Phone: "38732745815",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mehmedalija Mak Dzidar",
@@ -1700,7 +1829,8 @@ export const schools = [
     Longitude: "18.112573",
     Phone: "38732748008",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Avdo Smajlović",
@@ -1713,7 +1843,8 @@ export const schools = [
     Longitude: "18.177623",
     Phone: "38732738790",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Alija Nametak",
@@ -1726,7 +1857,8 @@ export const schools = [
     Longitude: "18.182033",
     Phone: "38732720147",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Safvet-beg Bašagić",
@@ -1739,7 +1871,8 @@ export const schools = [
     Longitude: "18.255998",
     Phone: "38732789030",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Enver Čolaković",
@@ -1752,7 +1885,8 @@ export const schools = [
     Longitude: "18.265688",
     Phone: "38732789350",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Vareš",
@@ -1765,7 +1899,8 @@ export const schools = [
     Longitude: "18.325906",
     Phone: "38732849250",
     Email: "",
-    Url: "http://www.os-vares.com.ba/"
+    Url: "http://www.os-vares.com.ba/",
+    Owner: ""
   },
   {
     Name: "Vareš Majdan",
@@ -1778,7 +1913,8 @@ export const schools = [
     Longitude: "18.316105",
     Phone: "38732843018",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Olovo",
@@ -1791,7 +1927,8 @@ export const schools = [
     Longitude: "18.582563",
     Phone: "38732825163",
     Email: "ossaudb@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Hasan Kikić",
@@ -1804,7 +1941,8 @@ export const schools = [
     Longitude: "18.543115",
     Phone: "38732827002",
     Email: "ossaudb@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Ivan fra Frano Jukić",
@@ -1817,7 +1955,8 @@ export const schools = [
     Longitude: "17.976879",
     Phone: "38732895272",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mustafa Ejubović - šejh Jujo",
@@ -1830,7 +1969,8 @@ export const schools = [
     Longitude: "17.823106",
     Phone: "38736576765",
     Email: "",
-    Url: "https://modos.ba/"
+    Url: "https://modos.ba/",
+    Owner: ""
   },
   {
     Name: "IV osnovna škola",
@@ -1843,7 +1983,8 @@ export const schools = [
     Longitude: "17.815535",
     Phone: "38736551463",
     Email: "ivosnovnamo@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "VI osnovna škola",
@@ -1856,7 +1997,8 @@ export const schools = [
     Longitude: "17.809512",
     Phone: "38736580288",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Mujaga Komadina",
@@ -1869,7 +2011,8 @@ export const schools = [
     Longitude: "17.815334",
     Phone: "38736578217",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Centar za dje. i omla.sa pos.potr.Los Rosales",
@@ -1882,7 +2025,8 @@ export const schools = [
     Longitude: "17.823066",
     Phone: "38736556581",
     Email: "",
-    Url: "http://www.los-rosales.com/"
+    Url: "http://www.los-rosales.com/",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Blagaj",
@@ -1895,7 +2039,8 @@ export const schools = [
     Longitude: "17.88797",
     Phone: "38736572479",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Gnojnice",
@@ -1908,7 +2053,8 @@ export const schools = [
     Longitude: "17.844604",
     Phone: "38736584598",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Omer Maksumić Podveležje",
@@ -1921,7 +2067,8 @@ export const schools = [
     Longitude: "17.91155",
     Phone: "38736560291",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Zalik",
@@ -1934,7 +2081,8 @@ export const schools = [
     Longitude: "17.812034",
     Phone: "38736571113",
     Email: "",
-    Url: "http://oszalik.com.ba/"
+    Url: "http://oszalik.com.ba/",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Vrapčići",
@@ -1947,7 +2095,8 @@ export const schools = [
     Longitude: "17.850007",
     Phone: "38736582162",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Bijelo Polje - Potoci",
@@ -1960,7 +2109,8 @@ export const schools = [
     Longitude: "17.888932",
     Phone: "38736556841",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Drešnica",
@@ -1973,7 +2123,8 @@ export const schools = [
     Longitude: "17.715817",
     Phone: "38736586235",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Suljo Čilić",
@@ -1986,7 +2137,8 @@ export const schools = [
     Longitude: "17.756499",
     Phone: "38736752801",
     Email: "",
-    Url: "http://www.suljocilic.com.ba/"
+    Url: "http://www.suljocilic.com.ba/",
+    Owner: ""
   },
   {
     Name: "O.Š. Alija Isaković - Prozor",
@@ -1999,7 +2151,8 @@ export const schools = [
     Longitude: "17.611894",
     Phone: "38736770513",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Prva osnovna škola - Konjic",
@@ -2012,7 +2165,8 @@ export const schools = [
     Longitude: "17.954709",
     Phone: "38736734031",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Druga osnovna škola - Konjic",
@@ -2025,7 +2179,8 @@ export const schools = [
     Longitude: "17.964467",
     Phone: "38736726192",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Čelebići - Konjic",
@@ -2038,7 +2193,8 @@ export const schools = [
     Longitude: "17.897218",
     Phone: "38736721464",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Parsovići",
@@ -2051,7 +2207,8 @@ export const schools = [
     Longitude: "17.813957",
     Phone: "38736741197",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Šćipe",
@@ -2064,7 +2221,8 @@ export const schools = [
     Longitude: "17.743661",
     Phone: "38736285106",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Seonica - Konjic",
@@ -2077,7 +2235,8 @@ export const schools = [
     Longitude: "17.84135",
     Phone: "38736742457",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Glavatičevo",
@@ -2090,7 +2249,8 @@ export const schools = [
     Longitude: "18.104726",
     Phone: "38736739044",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Čapljina",
@@ -2103,7 +2263,8 @@ export const schools = [
     Longitude: "17.701448",
     Phone: "38736806275",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Prva osnovna škola Stolac",
@@ -2116,7 +2277,8 @@ export const schools = [
     Longitude: "17.959429",
     Phone: "38736854006",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Međunarodna osnovna škola Mostar",
@@ -2129,7 +2291,8 @@ export const schools = [
     Longitude: "17.814563",
     Phone: "38736833410",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Antuna Branka Šimića",
@@ -2142,7 +2305,8 @@ export const schools = [
     Longitude: "17.801907",
     Phone: "38736330552",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "III Osnovna škola",
@@ -2155,7 +2319,8 @@ export const schools = [
     Longitude: "17.802143",
     Phone: "38736318451",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Ilići",
@@ -2168,7 +2333,8 @@ export const schools = [
     Longitude: "17.775588",
     Phone: "38736330732",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Ivana Gundulića",
@@ -2181,7 +2347,8 @@ export const schools = [
     Longitude: "17.799376",
     Phone: "38736347196",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Silvije S. Kranjčevića",
@@ -2194,7 +2361,8 @@ export const schools = [
     Longitude: "17.791783",
     Phone: "38736311160",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Cim",
@@ -2207,7 +2375,8 @@ export const schools = [
     Longitude: "17.782768",
     Phone: "38736341712",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.š Petra Bakule",
@@ -2220,7 +2389,8 @@ export const schools = [
     Longitude: "17.799453",
     Phone: "38736328675",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Ilije Jakovljevića",
@@ -2233,7 +2403,8 @@ export const schools = [
     Longitude: "17.803746",
     Phone: "38736324919",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. za djecu s posebnim potrebama",
@@ -2246,7 +2417,8 @@ export const schools = [
     Longitude: "",
     Phone: "38736313250",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Bartola Kašića Rodoč",
@@ -2259,7 +2431,8 @@ export const schools = [
     Longitude: "17.816866",
     Phone: "38736350128",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Marina Držića",
@@ -2272,7 +2445,8 @@ export const schools = [
     Longitude: "",
     Phone: "38736480510",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Kruševo",
@@ -2285,7 +2459,8 @@ export const schools = [
     Longitude: "17.753615",
     Phone: "38736486380",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. fra Didaka Buntića",
@@ -2298,7 +2473,8 @@ export const schools = [
     Longitude: "17.698069",
     Phone: "38736642086",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Čerin Čitluk",
@@ -2311,7 +2487,8 @@ export const schools = [
     Longitude: "17.636775",
     Phone: "38736652554",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Bijakovići",
@@ -2324,7 +2501,8 @@ export const schools = [
     Longitude: "17.680488",
     Phone: "38736651102",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Vladimira Pavlovića",
@@ -2337,7 +2515,8 @@ export const schools = [
     Longitude: "17.702626",
     Phone: "38736805091",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Lipanjske zore",
@@ -2350,7 +2529,8 @@ export const schools = [
     Longitude: "17.710916",
     Phone: "38736814066",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Stolac",
@@ -2363,7 +2543,8 @@ export const schools = [
     Longitude: "17.959411",
     Phone: "38736853443",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Crnići",
@@ -2376,7 +2557,8 @@ export const schools = [
     Longitude: "17.857986",
     Phone: "38736862235",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Ravno",
@@ -2389,7 +2571,8 @@ export const schools = [
     Longitude: "17.963443",
     Phone: "38736891525",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Kardinala Stepinca",
@@ -2402,7 +2585,8 @@ export const schools = [
     Longitude: "17.616859",
     Phone: "38736880017",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Marka Marulića",
@@ -2415,7 +2599,8 @@ export const schools = [
     Longitude: "17.607904",
     Phone: "38736770070",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. fra Jeronima",
@@ -2428,7 +2613,8 @@ export const schools = [
     Longitude: "",
     Phone: "38736780675",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Ivana Mažuranića",
@@ -2441,7 +2627,8 @@ export const schools = [
     Longitude: "17.680841",
     Phone: "38736784012",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "O.Š. Veselka Tenžere Uzdol",
@@ -2454,7 +2641,8 @@ export const schools = [
     Longitude: "",
     Phone: "38736783004",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Glazbena škola Brotnjo - Čitluk",
@@ -2467,7 +2655,8 @@ export const schools = [
     Longitude: "17.697559",
     Phone: "38736644687",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Harmani 1",
@@ -2480,7 +2669,8 @@ export const schools = [
     Longitude: "15.867208",
     Phone: "38737223292",
     Email: "os.harmani1@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Harmani 2",
@@ -2493,7 +2683,8 @@ export const schools = [
     Longitude: "15.865522",
     Phone: "38737220198",
     Email: "harmani_2@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Prekounje",
@@ -2506,7 +2697,8 @@ export const schools = [
     Longitude: "15.876488",
     Phone: "38737311030",
     Email: "skola_prekounje@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Gornje Prekounje Ripač",
@@ -2519,7 +2711,8 @@ export const schools = [
     Longitude: "15.883303",
     Phone: "38737319231",
     Email: "os.gornjep@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Kamenica",
@@ -2532,7 +2725,8 @@ export const schools = [
     Longitude: "15.829912",
     Phone: "38737388142",
     Email: "os.kamenica@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Gata Ilidža-Vrsta",
@@ -2545,7 +2739,8 @@ export const schools = [
     Longitude: "15.810354",
     Phone: "38737370310",
     Email: "skolagata.gata@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Brekovica",
@@ -2558,7 +2753,8 @@ export const schools = [
     Longitude: "15.885134",
     Phone: "38737302131",
     Email: "os.brekovica@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Kulen Vakuf - Orašac",
@@ -2571,7 +2767,8 @@ export const schools = [
     Longitude: "16.070285",
     Phone: "38737365651",
     Email: "os.kulenvakuf.orasac@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "KšC 'Ivan Pavao II'",
@@ -2584,7 +2781,8 @@ export const schools = [
     Longitude: "15.850486",
     Phone: "38737350850",
     Email: "ksc-bihac@net.hr",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Medjunarodna osnovna škola 'Richmond Park International Primary school'",
@@ -2597,7 +2795,8 @@ export const schools = [
     Longitude: "15.877278",
     Phone: "38737312902",
     Email: "bihac@rps.edu.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Prva osnovna škola",
@@ -2610,7 +2809,8 @@ export const schools = [
     Longitude: "16.158731",
     Phone: "38737471107",
     Email: "prvaosnovna_bk@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Druga osnovna škola",
@@ -2623,7 +2823,8 @@ export const schools = [
     Longitude: "16.160608",
     Phone: "38737472066",
     Email: "druga_osnovna_skola@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ 'Jezerski'",
@@ -2636,7 +2837,8 @@ export const schools = [
     Longitude: "16.09199",
     Phone: "38737481063",
     Email: "osjezerski@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Otoka",
@@ -2649,7 +2851,8 @@ export const schools = [
     Longitude: "16.181094",
     Phone: "38737477003",
     Email: "juotoka@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Ahmet Hromadžić",
@@ -2662,7 +2865,8 @@ export const schools = [
     Longitude: "16.368356",
     Phone: "38737881047",
     Email: "skola.bp@bih.net.bos.buzim@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Bužim",
@@ -2675,7 +2879,8 @@ export const schools = [
     Longitude: "16.028758",
     Phone: "38737410114",
     Email: "os.buzim@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Konjodor",
@@ -2688,7 +2893,8 @@ export const schools = [
     Longitude: "16.0289",
     Phone: "38737425089",
     Email: "os_konjodor@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Mirsad Salkić",
@@ -2701,7 +2907,8 @@ export const schools = [
     Longitude: "16.092354",
     Phone: "38737423265",
     Email: "osmirsad.salkic@gmail.com",
-    Url: "https://oscava.com/"
+    Url: "https://oscava.com/",
+    Owner: ""
   },
   {
     Name: "OŠ Cazin I",
@@ -2714,7 +2921,8 @@ export const schools = [
     Longitude: "15.937528",
     Phone: "38737514221",
     Email: "osnovna.skola.cazin.1@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Cazin II",
@@ -2727,7 +2935,8 @@ export const schools = [
     Longitude: "15.925122",
     Phone: "38737539032",
     Email: "oscazin2@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Ćoralići",
@@ -2740,7 +2949,8 @@ export const schools = [
     Longitude: "15.883709",
     Phone: "38737536598",
     Email: "juoscoralici@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Gornja Koprivna",
@@ -2753,7 +2963,8 @@ export const schools = [
     Longitude: "15.954915",
     Phone: "38737550673",
     Email: "os.gornjakoprivna@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Liskovac",
@@ -2766,7 +2977,8 @@ export const schools = [
     Longitude: "15.846904",
     Phone: "38737551008",
     Email: "mirsada.beganovic@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Ostrožac",
@@ -2779,7 +2991,8 @@ export const schools = [
     Longitude: "15.93171",
     Phone: "38737531159",
     Email: "juosostrozac@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Pećigrad",
@@ -2792,7 +3005,8 @@ export const schools = [
     Longitude: "15.89726",
     Phone: "38737540204",
     Email: "ospecigrad@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Skokovi",
@@ -2805,7 +3019,8 @@ export const schools = [
     Longitude: "15.915172",
     Phone: "38737547302",
     Email: "os.skokovi@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Stijena",
@@ -2818,7 +3033,8 @@ export const schools = [
     Longitude: "16.020051",
     Phone: "38737543536",
     Email: "osstijena@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Šturlić",
@@ -2831,7 +3047,8 @@ export const schools = [
     Longitude: "15.782533",
     Phone: "38737555002",
     Email: "os.sturlic@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Tržačka Raštela",
@@ -2844,7 +3061,8 @@ export const schools = [
     Longitude: "15.78447",
     Phone: "38737520033",
     Email: "juosrastela1@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Ključ",
@@ -2857,7 +3075,8 @@ export const schools = [
     Longitude: "16.77713",
     Phone: "38737660127",
     Email: "os.kljuc@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Velagić",
@@ -2870,7 +3089,8 @@ export const schools = [
     Longitude: "16.723689",
     Phone: "38737647712",
     Email: "ju.os.velagici@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sanica",
@@ -2883,7 +3103,8 @@ export const schools = [
     Longitude: "16.642678",
     Phone: "38737671008",
     Email: "skola.sanica@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Prva osnovna škola",
@@ -2896,7 +3117,8 @@ export const schools = [
     Longitude: "15.80441",
     Phone: "38737773811",
     Email: "prvaosnovnaskola.vk@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ 25. Novembar",
@@ -2909,7 +3131,8 @@ export const schools = [
     Longitude: "15.811749",
     Phone: "38737770208",
     Email: "os.25.novembar@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Crvarevac",
@@ -2922,7 +3145,8 @@ export const schools = [
     Longitude: "15.992269",
     Phone: "38737725632",
     Email: "juos.crvarevac@yahoo.se",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Donja Vidovska",
@@ -2935,7 +3159,8 @@ export const schools = [
     Longitude: "15.815685",
     Phone: "38737723331",
     Email: "os.donjavidovska@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sead Ćehić",
@@ -2948,7 +3173,8 @@ export const schools = [
     Longitude: "15.842332",
     Phone: "38737720504",
     Email: "osseadcehic@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Podzvizd",
@@ -2961,7 +3187,8 @@ export const schools = [
     Longitude: "15.873527",
     Phone: "38737718923",
     Email: "podzvizd@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Fadil Bilal",
@@ -2974,7 +3201,8 @@ export const schools = [
     Longitude: "15.858521",
     Phone: "38737713448",
     Email: "os.fadilbilal@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Todorovska Slapnica",
@@ -2987,7 +3215,8 @@ export const schools = [
     Longitude: "15.909253",
     Phone: "38737728388",
     Email: "os.todslapnica@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Todorovo",
@@ -3000,7 +3229,8 @@ export const schools = [
     Longitude: "15.92986",
     Phone: "38737716858",
     Email: "os_todorovo@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ 1. Mart",
@@ -3013,7 +3243,8 @@ export const schools = [
     Longitude: "15.954978",
     Phone: "38737710481",
     Email: "os1mart.vrnograc@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ 5. Oktobar",
@@ -3026,7 +3257,8 @@ export const schools = [
     Longitude: "16.655601",
     Phone: "38737686172",
     Email: "oss.5.oktobar@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Hasan Kikić",
@@ -3039,7 +3271,8 @@ export const schools = [
     Longitude: "16.668178",
     Phone: "38737685271",
     Email: "hasankikic_sa@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Prva sanska škola",
@@ -3052,7 +3285,8 @@ export const schools = [
     Longitude: "16.673879",
     Phone: "38737689437",
     Email: "os.prvasanskaskola@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Mahala",
@@ -3065,7 +3299,8 @@ export const schools = [
     Longitude: "16.668927",
     Phone: "38737681989",
     Email: "os.mahala@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Skender Kulenović",
@@ -3078,7 +3313,8 @@ export const schools = [
     Longitude: "16.574918",
     Phone: "38737695040",
     Email: "skulenovic@live.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Fajtovci",
@@ -3091,7 +3327,8 @@ export const schools = [
     Longitude: "16.51349",
     Phone: "38737698404",
     Email: "sekretar@osfajtovci.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vrhpolje",
@@ -3104,7 +3341,8 @@ export const schools = [
     Longitude: "16.735685",
     Phone: "38737692809",
     Email: "vrhpolje.skola@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna muzička škola 'Avdo Smailović'",
@@ -3117,7 +3355,8 @@ export const schools = [
     Longitude: "18.97571",
     Phone: "38738222422",
     Email: "muzicka.gorazde@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Prača'",
@@ -3130,7 +3369,8 @@ export const schools = [
     Longitude: "18.763757",
     Phone: "38738799104",
     Email: "juospraca@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Hasan Turčalo Brzi'",
@@ -3143,7 +3383,8 @@ export const schools = [
     Longitude: "18.816293",
     Phone: "3873824022",
     Email: "osbrzi@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Fahrudin Fahro Baščelija'",
@@ -3156,7 +3397,8 @@ export const schools = [
     Longitude: "18.972435",
     Phone: "38738240750",
     Email: "juosffb@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Husein ef. Đozo'",
@@ -3169,7 +3411,8 @@ export const schools = [
     Longitude: "18.975281",
     Phone: "38738221215",
     Email: "oshed@bih.net.ba",
-    Url: "http://oshed.com.ba/"
+    Url: "http://oshed.com.ba/",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Mehmedalija Mak Dizdar'",
@@ -3182,7 +3425,8 @@ export const schools = [
     Longitude: "18.958362",
     Phone: "38738230553",
     Email: "mak000@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Mehmedalija Mak Dizdar'",
@@ -3195,7 +3439,8 @@ export const schools = [
     Longitude: "18.912935",
     Phone: "38738230553",
     Email: "mak000@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Ustikolina'",
@@ -3208,7 +3453,8 @@ export const schools = [
     Longitude: "18.790197",
     Phone: "38738518139",
     Email: "os_ustikolina@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Mehmedalija Mak Dizdar'",
@@ -3221,7 +3467,8 @@ export const schools = [
     Longitude: "18.886515",
     Phone: "38738825163",
     Email: "mak000@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Marka Marulića - Ljubuški",
@@ -3234,7 +3481,8 @@ export const schools = [
     Longitude: "17.543845",
     Phone: "38739833724",
     Email: "os.marko.marulic.ljubuski@tel.net.ba",
-    Url: "http://os-markamarulica.info/"
+    Url: "http://os-markamarulica.info/",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Ivane Brlić Mažuranić Ljubuški",
@@ -3247,7 +3495,8 @@ export const schools = [
     Longitude: "17.526955",
     Phone: "38739831315",
     Email: "oshumac@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Tina Ujevića - Vitina",
@@ -3260,7 +3509,8 @@ export const schools = [
     Longitude: "17.480938",
     Phone: "38739841651",
     Email: "os.vitina@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Ante Brune Bušića - Rakitno",
@@ -3273,7 +3523,8 @@ export const schools = [
     Longitude: "17.42871",
     Phone: "38739692410",
     Email: "os.abb@rakitno.net",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Franica Dall'era - Vir",
@@ -3286,7 +3537,8 @@ export const schools = [
     Longitude: "17.204688",
     Phone: "38739691291",
     Email: "os.vir@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Ivana Mažuranića- Posušje",
@@ -3299,7 +3551,8 @@ export const schools = [
     Longitude: "17.330803",
     Phone: "38739681023",
     Email: "o.s.posusje@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Ruđera Boškovića -Grude",
@@ -3312,7 +3565,8 @@ export const schools = [
     Longitude: "17.415917",
     Phone: "38739662329",
     Email: "os.grude@tel.net",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Antuna Branka i Stanislava Šimića - Drinovci",
@@ -3325,7 +3579,8 @@ export const schools = [
     Longitude: "17.322715",
     Phone: "38739672520",
     Email: "osdrinovci@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola fra. Stipana Vrljića - Sovići",
@@ -3338,7 +3593,8 @@ export const schools = [
     Longitude: "17.322056",
     Phone: "38739670062",
     Email: "os.sovici@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Prva osnovna škola - Široki Brijeg",
@@ -3351,7 +3607,8 @@ export const schools = [
     Longitude: "17.586251",
     Phone: "38739703359",
     Email: "prvaosnovnaskola.sbrijeg@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Druga osnovna škola - Široki Brijeg",
@@ -3364,7 +3621,8 @@ export const schools = [
     Longitude: "17.604844",
     Phone: "38739704590",
     Email: "druga.ossb@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Kočerin",
@@ -3377,7 +3635,8 @@ export const schools = [
     Longitude: "17.484661",
     Phone: "38739711213",
     Email: "oskocerin@gmail.com",
-    Url: "www.os-kocerin.com"
+    Url: "www.os-kocerin.com",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Biograci",
@@ -3390,7 +3649,8 @@ export const schools = [
     Longitude: "17.674317",
     Phone: "38739713417",
     Email: "os.biograci@wic.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Vranić",
@@ -3403,7 +3663,8 @@ export const schools = [
     Longitude: "17.409632",
     Phone: "38739694355",
     Email: "osnovnaskolavranic@gmail.com ",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Banovići",
@@ -3416,7 +3677,8 @@ export const schools = [
     Longitude: "18.525017",
     Phone: "38735876214",
     Email: "os.banovici@montk.gov.ba",
-    Url: "https://juosbanovici.weebly.com/"
+    Url: "https://juosbanovici.weebly.com/",
+    Owner: ""
   },
   {
     Name: "JU OŠ 'Grivice'",
@@ -3429,7 +3691,8 @@ export const schools = [
     Longitude: "18.526421",
     Phone: "38735871150",
     Email: "juos.grivice@bih.net.ba",
-    Url: "www.grivice.com"
+    Url: "www.grivice.com",
+    Owner: ""
   },
   {
     Name: "JU OŠ 'Seona' Aljkovići",
@@ -3442,7 +3705,8 @@ export const schools = [
     Longitude: "18.377131",
     Phone: "38735883440",
     Email: "os.seona@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ 'Banovići Selo'",
@@ -3455,7 +3719,8 @@ export const schools = [
     Longitude: "18.443896",
     Phone: "38735872105",
     Email: "banovici.s.s@bih.net.ba",
-    Url: "www.skola-banovici-selo.com"
+    Url: "www.skola-banovici-selo.com",
+    Owner: ""
   },
   {
     Name: "JU OŠ Treštenica",
@@ -3468,7 +3733,8 @@ export const schools = [
     Longitude: "18.455906",
     Phone: "38735890445",
     Email: "os.trestenica@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Čelić",
@@ -3481,7 +3747,8 @@ export const schools = [
     Longitude: "18.82079",
     Phone: "38735660111",
     Email: "os.celic@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Humci",
@@ -3494,7 +3761,8 @@ export const schools = [
     Longitude: "18.698846",
     Phone: "38735669750",
     Email: "kitovnica@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Vražići",
@@ -3507,7 +3775,8 @@ export const schools = [
     Longitude: "18.754755",
     Phone: "38735663090",
     Email: "skola_vrazici@bih.net.ba",
-    Url: "www.osvrazici.com.ba"
+    Url: "www.osvrazici.com.ba",
+    Owner: ""
   },
   {
     Name: "JU OŠ Brijesnica",
@@ -3520,7 +3789,8 @@ export const schools = [
     Longitude: "18.207595",
     Phone: "38735723454",
     Email: "juosvbrijesnica@bih.net.ba",
-    Url: "www.osbrijesnica.com.ba"
+    Url: "www.osbrijesnica.com.ba",
+    Owner: ""
   },
   {
     Name: "JU OŠ Klokotnica",
@@ -3533,7 +3803,8 @@ export const schools = [
     Longitude: "18.187209",
     Phone: "38735722121",
     Email: "skola.klokotnica@bih.net.ba",
-    Url: "www.juosklokotnica.edu.ba"
+    Url: "www.juosklokotnica.edu.ba",
+    Owner: ""
   },
   {
     Name: "JU OŠ Gornja Orahovicaš",
@@ -3546,7 +3817,8 @@ export const schools = [
     Longitude: "18.395285",
     Phone: "38735710250",
     Email: "juos_gorahovica@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU Druga osnovna škola Gračanica",
@@ -3559,7 +3831,8 @@ export const schools = [
     Longitude: "18.298807",
     Phone: "38735708333",
     Email: "drugaosgracanica@bih.net.ba",
-    Url: "www.drugaosgracanica.com.ba"
+    Url: "www.drugaosgracanica.com.ba",
+    Owner: ""
   },
   {
     Name: "JU OŠ Doborovci",
@@ -3572,7 +3845,8 @@ export const schools = [
     Longitude: "18.396375",
     Phone: "38735798061",
     Email: "juosdoborovci@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Džakule",
@@ -3585,7 +3859,8 @@ export const schools = [
     Longitude: "18.389486",
     Phone: "38735719663",
     Email: "juosdzakule@wirac.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Lukavica",
@@ -3598,7 +3873,8 @@ export const schools = [
     Longitude: "18.185549",
     Phone: "38735729106",
     Email: "skola000@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Malešići",
@@ -3611,7 +3887,8 @@ export const schools = [
     Longitude: "18.274446",
     Phone: "38735796061",
     Email: "juosmalesici@hotmail.com",
-    Url: "www.juosmalesicicjb.net"
+    Url: "www.juosmalesicicjb.net",
+    Owner: ""
   },
   {
     Name: "JU OŠ Miričina",
@@ -3624,7 +3901,8 @@ export const schools = [
     Longitude: "18.405118",
     Phone: "38735716336",
     Email: "juosmiricina@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Orahovica",
@@ -3637,7 +3915,8 @@ export const schools = [
     Longitude: "18.375821",
     Phone: "38735712144",
     Email: "juosdorahovica@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Soko",
@@ -3650,7 +3929,8 @@ export const schools = [
     Longitude: "18.338827",
     Phone: "38735790282",
     Email: "juossoko@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Stjepan Polje",
@@ -3663,7 +3943,8 @@ export const schools = [
     Longitude: "18.250396",
     Phone: "38735792019",
     Email: "osnovna.sk@bih.net.ba",
-    Url: "www.osstjepanpolje.4t.com"
+    Url: "www.osstjepanpolje.4t.com",
+    Owner: ""
   },
   {
     Name: "JU OŠ Hasan Kikić",
@@ -3676,7 +3957,8 @@ export const schools = [
     Longitude: "18.311401",
     Phone: "38735700430",
     Email: "has-ki@bih.net.ba",
-    Url: "www.oshk.gracanica.net"
+    Url: "www.oshk.gracanica.net",
+    Owner: ""
   },
   {
     Name: "JU OŠ Hasan Kikić",
@@ -3689,7 +3971,8 @@ export const schools = [
     Longitude: "18.407242",
     Phone: "38735823615",
     Email: "oshkgra1@bih.net.ba",
-    Url: "www.oshasankikic.com"
+    Url: "www.oshasankikic.com",
+    Owner: ""
   },
   {
     Name: "JU OŠ 'Dr. Safvet-beg Bašagić'",
@@ -3702,7 +3985,8 @@ export const schools = [
     Longitude: "18.432307",
     Phone: "38735821250",
     Email: "dauf@bih.net.ba",
-    Url: "www.sbbgra.org"
+    Url: "www.sbbgra.org",
+    Owner: ""
   },
   {
     Name: "JU OŠ Edhem Mulabdić",
@@ -3715,7 +3999,8 @@ export const schools = [
     Longitude: "18.411862",
     Phone: "38735869026",
     Email: "skolaemc@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Hamdija Kreševljaković",
@@ -3728,7 +4013,8 @@ export const schools = [
     Longitude: "18.488101",
     Phone: "38735857243",
     Email: "juos.hk@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Ivan Goran Kovačić",
@@ -3741,7 +4027,8 @@ export const schools = [
     Longitude: "18.422798",
     Phone: "38735821240",
     Email: "senad.hecim@gmail.com",
-    Url: "www.kovacic.com"
+    Url: "www.kovacic.com",
+    Owner: ""
   },
   {
     Name: "JU OŠ Musa Ćazim Ćatić Zelinja Donja",
@@ -3754,7 +4041,8 @@ export const schools = [
     Longitude: "18.39417",
     Phone: "38735829800",
     Email: "os_sk_ze@bih.net.ba",
-    Url: "www.geocities.com/musa2001.ba"
+    Url: "www.geocities.com/musa2001.ba",
+    Owner: ""
   },
   {
     Name: "JU OŠ Mebmed-beg Kapetanović Ljubušak",
@@ -3767,7 +4055,8 @@ export const schools = [
     Longitude: "18.47477",
     Phone: "38735858004",
     Email: "juos.ljubusak@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Kalesija",
@@ -3780,7 +4069,8 @@ export const schools = [
     Longitude: "18.875858",
     Phone: "38735610080",
     Email: "os.kalesija@neon.ba",
-    Url: "www.os.kalesija.com"
+    Url: "www.os.kalesija.com",
+    Owner: ""
   },
   {
     Name: "JU OŠ Rainci Gornji",
@@ -3793,7 +4083,8 @@ export const schools = [
     Longitude: "18.815642",
     Phone: "38735638099",
     Email: "osrainci@bih.net.ba",
-    Url: "www.os-raincigornji.npage.eu"
+    Url: "www.os-raincigornji.npage.eu",
+    Owner: ""
   },
   {
     Name: "JU OŠ Tojšići",
@@ -3806,7 +4097,8 @@ export const schools = [
     Longitude: "18.787837",
     Phone: "38735635635",
     Email: "juos.toj@bih.net.ba",
-    Url: "www.ostojsici.com"
+    Url: "www.ostojsici.com",
+    Owner: ""
   },
   {
     Name: "JU OŠ Vukovije",
@@ -3819,7 +4111,8 @@ export const schools = [
     Longitude: "18.765116",
     Phone: "38735611670",
     Email: "osvukovije@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Memići",
@@ -3832,7 +4125,8 @@ export const schools = [
     Longitude: "18.927379",
     Phone: "38735615218",
     Email: "skolamemici@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Kladanj",
@@ -3845,7 +4139,8 @@ export const schools = [
     Longitude: "18.696358",
     Phone: "38735621094",
     Email: "kladanj@bih.net.ba",
-    Url: "www.os-kladanj.edu.ba"
+    Url: "www.os-kladanj.edu.ba",
+    Owner: ""
   },
   {
     Name: "JU OŠ Stupari",
@@ -3858,7 +4153,8 @@ export const schools = [
     Longitude: "18.679273",
     Phone: "38735622400",
     Email: "osstupari@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ 'Lukavac Mjesto' Lukavac",
@@ -3871,7 +4167,8 @@ export const schools = [
     Longitude: "18.527405",
     Phone: "38735553732",
     Email: "ooslukavacmjesto@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ 'Lukavac Grad'",
@@ -3884,7 +4181,8 @@ export const schools = [
     Longitude: "18.537617",
     Phone: "38735554199",
     Email: "os.lukavacgrad@montk.gov.ba",
-    Url: "www.lukavac-grad.com.ba"
+    Url: "www.lukavac-grad.com.ba",
+    Owner: ""
   },
   {
     Name: "JU OŠ Gnojnica",
@@ -3897,7 +4195,8 @@ export const schools = [
     Longitude: "18.445958",
     Phone: "38735575230",
     Email: "os.gnojnica@montk.gov.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Poljice",
@@ -3910,7 +4209,8 @@ export const schools = [
     Longitude: "18.489287",
     Phone: "38735540698",
     Email: "skolapoljice@gmail.com",
-    Url: "www.poljice.ba"
+    Url: "www.poljice.ba",
+    Owner: ""
   },
   {
     Name: "JU OŠ Prokosovići",
@@ -3923,7 +4223,8 @@ export const schools = [
     Longitude: "18.485009",
     Phone: "38735561123",
     Email: "osprokosovici@yahoo.com",
-    Url: "www.osprokosovici.info"
+    Url: "www.osprokosovici.info",
+    Owner: ""
   },
   {
     Name: "JU OŠ Puračić",
@@ -3936,7 +4237,8 @@ export const schools = [
     Longitude: "18.478248",
     Phone: "38735562255",
     Email: "os.puracic.bb@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Dobošnica",
@@ -3949,7 +4251,8 @@ export const schools = [
     Longitude: "18.447438",
     Phone: "38735577078",
     Email: "os.dobos@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Turija",
@@ -3962,7 +4265,8 @@ export const schools = [
     Longitude: "18.419287",
     Phone: "38735564087",
     Email: "osturija@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Sapna",
@@ -3975,7 +4279,8 @@ export const schools = [
     Longitude: "19.002049",
     Phone: "38735599015",
     Email: "os.sapna@bih.net.ba",
-    Url: "www.os.sapna.ba"
+    Url: "www.os.sapna.ba",
+    Owner: ""
   },
   {
     Name: "JU Druga osnovna škola Srebrenik",
@@ -3988,7 +4293,8 @@ export const schools = [
     Longitude: "18.498955",
     Phone: "38735647091",
     Email: "druga.osnovna@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Duboki Potok",
@@ -4001,7 +4307,8 @@ export const schools = [
     Longitude: "18.502342",
     Phone: "38735653098",
     Email: "os.dpotok@osdpotok.edu.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Podorašje",
@@ -4014,7 +4321,8 @@ export const schools = [
     Longitude: "18.590248",
     Phone: "38735651979",
     Email: "os.pod@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Špionica",
@@ -4027,7 +4335,8 @@ export const schools = [
     Longitude: "18.486892",
     Phone: "38735650022",
     Email: "spionica27@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU Prva osnovna škola Srebrenik",
@@ -4040,7 +4349,8 @@ export const schools = [
     Longitude: "18.489802",
     Phone: "38735647260",
     Email: "besacica@yahoo.com",
-    Url: "www.prvaos.net"
+    Url: "www.prvaos.net",
+    Owner: ""
   },
   {
     Name: "JU OŠ Rapatnica",
@@ -4053,7 +4363,8 @@ export const schools = [
     Longitude: "18.475391",
     Phone: "38735696054",
     Email: "o.s.rapatnica@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Sladna",
@@ -4066,7 +4377,8 @@ export const schools = [
     Longitude: "18.426061",
     Phone: "38735654254",
     Email: "ossladna@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Tinja",
@@ -4079,7 +4391,8 @@ export const schools = [
     Longitude: "18.554244",
     Phone: "38735651619",
     Email: "os.tinja@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Teočak",
@@ -4092,7 +4405,8 @@ export const schools = [
     Longitude: "18.981005",
     Phone: "38735755517",
     Email: "os.teocak@bih.net.ba",
-    Url: "www.osteocak.com.ba"
+    Url: "www.osteocak.com.ba",
+    Owner: ""
   },
   {
     Name: "JU Osnovna muzička škola Tuzla",
@@ -4105,7 +4419,8 @@ export const schools = [
     Longitude: "18.683811",
     Phone: "38735252005",
     Email: "omskola.tz@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Breške",
@@ -4118,7 +4433,8 @@ export const schools = [
     Longitude: "18.653685",
     Phone: "38735812218",
     Email: "osbreske@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Bukinje",
@@ -4131,7 +4447,8 @@ export const schools = [
     Longitude: "18.600756",
     Phone: "38735215414",
     Email: "os.bukinje@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Husino",
@@ -4144,7 +4461,8 @@ export const schools = [
     Longitude: "18.614469",
     Phone: "38735802015",
     Email: "nedimsivcevic@yahoo.com",
-    Url: "www.husino.ioskole.net"
+    Url: "www.husino.ioskole.net",
+    Owner: ""
   },
   {
     Name: "JU OŠ Jala",
@@ -4157,7 +4475,8 @@ export const schools = [
     Longitude: "18.686771",
     Phone: "38735272598",
     Email: "os_jala@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Kiseljak",
@@ -4170,7 +4489,8 @@ export const schools = [
     Longitude: "18.569868",
     Phone: "38735382184",
     Email: "oskiseljak@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Kreka",
@@ -4183,7 +4503,8 @@ export const schools = [
     Longitude: "18.657529",
     Phone: "38735227047",
     Email: "oskreka@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Lipnica",
@@ -4196,7 +4517,8 @@ export const schools = [
     Longitude: "18.612136",
     Phone: "38735806220",
     Email: "juos.lipnica@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Miladije",
@@ -4209,7 +4531,8 @@ export const schools = [
     Longitude: "18.641635",
     Phone: "38735398075",
     Email: "os_miladije@hotmail.com",
-    Url: "www.osmiladije.com"
+    Url: "www.osmiladije.com",
+    Owner: ""
   },
   {
     Name: "JU OŠ Mramor",
@@ -4222,7 +4545,8 @@ export const schools = [
     Longitude: "18.563951",
     Phone: "38735810414",
     Email: "adem_bajric@hotmail.com",
-    Url: "www.freewebsmramoros.com"
+    Url: "www.freewebsmramoros.com",
+    Owner: ""
   },
   {
     Name: "JU OŠ Pasci",
@@ -4235,7 +4559,8 @@ export const schools = [
     Longitude: "18.668881",
     Phone: "38735318121",
     Email: "muhamed_odobasic@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Pazar",
@@ -4248,7 +4573,8 @@ export const schools = [
     Longitude: "18.669171",
     Phone: "38735270045",
     Email: "os.pazar@bih.net.ba",
-    Url: "www.ospazar.edu.ba"
+    Url: "www.ospazar.edu.ba",
+    Owner: ""
   },
   {
     Name: "JU OŠ Simin Han",
@@ -4261,7 +4587,8 @@ export const schools = [
     Longitude: "18.743863",
     Phone: "38735312921",
     Email: "senadap@multicom.ba",
-    Url: "www.multicom.ba/siminhan"
+    Url: "www.multicom.ba/siminhan",
+    Owner: ""
   },
   {
     Name: "JU OŠ Slavinovići",
@@ -4274,7 +4601,8 @@ export const schools = [
     Longitude: "18.717841",
     Phone: "38735225765",
     Email: "osslavin@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Solina",
@@ -4287,7 +4615,8 @@ export const schools = [
     Longitude: "18.693296",
     Phone: "38735269424",
     Email: "skola.solina@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Tušanj",
@@ -4300,7 +4629,8 @@ export const schools = [
     Longitude: "18.66214",
     Phone: "38735311051",
     Email: "tusanj@hotmail.com",
-    Url: "www.os-tusanj.tk"
+    Url: "www.os-tusanj.tk",
+    Owner: ""
   },
   {
     Name: "JU OŠ Brčanska Malta",
@@ -4313,7 +4643,8 @@ export const schools = [
     Longitude: "18.695868",
     Phone: "38735362990",
     Email: "b.malta@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Centar",
@@ -4326,7 +4657,8 @@ export const schools = [
     Longitude: "18.683784",
     Phone: "38735275120",
     Email: "oscentar@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Gornja Tuzla",
@@ -4339,7 +4671,8 @@ export const schools = [
     Longitude: "18.761571",
     Phone: "38735391003",
     Email: "osgt@wispi.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Mejdan",
@@ -4352,7 +4685,8 @@ export const schools = [
     Longitude: "18.664878",
     Phone: "38735315370",
     Email: "osmejdan@bih.net.ba",
-    Url: "http://mejdan.cjb.net"
+    Url: "http://mejdan.cjb.net",
+    Owner: ""
   },
   {
     Name: "JU OŠ Novi Grad Tuzla",
@@ -4365,7 +4699,8 @@ export const schools = [
     Longitude: "18.694272",
     Phone: "38735250851",
     Email: "ngrad@bih.net.ba",
-    Url: "www.osngtz.edu.ba"
+    Url: "www.osngtz.edu.ba",
+    Owner: ""
   },
   {
     Name: "JU OŠ Podrinje",
@@ -4378,7 +4713,8 @@ export const schools = [
     Longitude: "18.564039",
     Phone: "38735216285",
     Email: "skola.podrinje@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ 'Sveti Franjo'",
@@ -4391,7 +4727,8 @@ export const schools = [
     Longitude: "18.680785",
     Phone: "38735300842",
     Email: "direktor.os@ksc-tuzla.edu.ba",
-    Url: "www.ksc-tuzla.edu.ba"
+    Url: "www.ksc-tuzla.edu.ba",
+    Owner: ""
   },
   {
     Name: "JU Zavod za odgoj i obrazovanje djece sa smetnjama u psihičkom i tjelesnom razvoju",
@@ -4404,7 +4741,8 @@ export const schools = [
     Longitude: "18.658072",
     Phone: "38735281427",
     Email: "muratovicdamir@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Sjenjak",
@@ -4417,7 +4755,8 @@ export const schools = [
     Longitude: "18.704398",
     Phone: "38735261666",
     Email: "ossjenjak@yahoo.com",
-    Url: "www.juossjenjak.com.ba"
+    Url: "www.juossjenjak.com.ba",
+    Owner: ""
   },
   {
     Name: "JU Centar za obrazovanje i vaspitanje i rehabilitaciju slušanja i govora",
@@ -4430,7 +4769,8 @@ export const schools = [
     Longitude: "18.635152",
     Phone: "38735312390",
     Email: "gest.tuz@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU Druga osnovna škola",
@@ -4443,7 +4783,8 @@ export const schools = [
     Longitude: "18.654079",
     Phone: "38735775045",
     Email: "drugaosz@yahoo.com",
-    Url: "www.drugaos.tk"
+    Url: "www.drugaos.tk",
+    Owner: ""
   },
   {
     Name: "JU OŠ Bašigovci",
@@ -4456,7 +4797,8 @@ export const schools = [
     Longitude: "18.696996",
     Phone: "38735769473",
     Email: "juosbasigovci@hotmail.com",
-    Url: "www.osbasigovci.web1000.com"
+    Url: "www.osbasigovci.web1000.com",
+    Owner: ""
   },
   {
     Name: "JU OŠ Dubrave",
@@ -4469,7 +4811,8 @@ export const schools = [
     Longitude: "18.699586",
     Phone: "38735813014",
     Email: "osdubrave@gmail.com",
-    Url: "www.os-dubrave.web1000.com"
+    Url: "www.os-dubrave.web1000.com",
+    Owner: ""
   },
   {
     Name: "JU OŠ Đurđevik",
@@ -4482,7 +4825,8 @@ export const schools = [
     Longitude: "18.663844",
     Phone: "38735762095",
     Email: "red_huso@yahoo.com",
-    Url: "www.juosdjurdjevik.tk"
+    Url: "www.juosdjurdjevik.tk",
+    Owner: ""
   },
   {
     Name: "JU OŠ Gračanica",
@@ -4495,7 +4839,8 @@ export const schools = [
     Longitude: "18.766121",
     Phone: "3.87E+10",
     Email: "aljo_osgracanica@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU OŠ Šerići",
@@ -4508,7 +4853,8 @@ export const schools = [
     Longitude: "18.557778",
     Phone: "38735760221",
     Email: "osserici@gmail.com",
-    Url: "www.osserici.com"
+    Url: "www.osserici.com",
+    Owner: ""
   },
   {
     Name: "JU OŠ Višća",
@@ -4521,7 +4867,8 @@ export const schools = [
     Longitude: "18.622219",
     Phone: "38735767248",
     Email: "viscaos@live.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU Prva osnovna škola Živinice",
@@ -4534,7 +4881,8 @@ export const schools = [
     Longitude: "18.644405",
     Phone: "38735740056",
     Email: "prvaosnovnaskolazivinice@yahoo.com",
-    Url: "www.prvaosnovna.i8.com"
+    Url: "www.prvaosnovna.i8.com",
+    Owner: ""
   },
   {
     Name: "JU OŠ Živinice Gornje",
@@ -4547,7 +4895,8 @@ export const schools = [
     Longitude: "18.617168",
     Phone: "38735770224",
     Email: "o.s.g.zivinice@live.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Karaula'",
@@ -4560,7 +4909,8 @@ export const schools = [
     Longitude: "17.50478476",
     Phone: "38730535050",
     Email: "os.karaula@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Druga Osnovna škola",
@@ -4573,7 +4923,8 @@ export const schools = [
     Longitude: "17.44907579",
     Phone: "38730251702",
     Email: "drosskola@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna Muzička škola",
@@ -4586,7 +4937,8 @@ export const schools = [
     Longitude: "17.449076",
     Phone: "38730251181",
     Email: "osmuzicka.bu@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Prva Osnovna škola",
@@ -4599,7 +4951,8 @@ export const schools = [
     Longitude: "17.45232082",
     Phone: "38730251700",
     Email: "prvaosbu@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Treća Osnovna škola",
@@ -4612,7 +4965,8 @@ export const schools = [
     Longitude: "17.45222148",
     Phone: "38730251701",
     Email: "trosjaklic@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Gračanica'",
@@ -4625,7 +4979,8 @@ export const schools = [
     Longitude: "17.49492172",
     Phone: "38730281036",
     Email: "gracanca@bih.net.ba ",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Drvetine'",
@@ -4638,7 +4993,8 @@ export const schools = [
     Longitude: "17.45154429",
     Phone: "38730277343",
     Email: "drvetine@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Bristovi'",
@@ -4651,7 +5007,8 @@ export const schools = [
     Longitude: "17.47649152",
     Phone: "38730250692",
     Email: "skola.bristovi@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Busovača'",
@@ -4664,7 +5021,8 @@ export const schools = [
     Longitude: "17.87987545",
     Phone: "38730733095",
     Email: "o.s.busovaca@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Kaćuni",
@@ -4677,7 +5035,8 @@ export const schools = [
     Longitude: "17.93794775",
     Phone: "38730591019",
     Email: "deno.1111@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Prva Osnovna škola'",
@@ -4690,7 +5049,8 @@ export const schools = [
     Longitude: "17.40225425",
     Phone: "38730205115",
     Email: "prvaosdonjivakuf@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Treća Osnovna škola",
@@ -4703,7 +5063,8 @@ export const schools = [
     Longitude: "17.41942178",
     Phone: "38730261005",
     Email: "osoborci@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Muhsin Rizvić'",
@@ -4716,7 +5077,8 @@ export const schools = [
     Longitude: "17.90223652",
     Phone: "38730831855",
     Email: "osmuhsinrizvic@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Gornji Vakuf'",
@@ -4729,7 +5091,8 @@ export const schools = [
     Longitude: "17.59017375",
     Phone: "38730265658",
     Email: "emirsin@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Uskoplje'",
@@ -4742,7 +5105,8 @@ export const schools = [
     Longitude: "17.58189189",
     Phone: "38730494018",
     Email: "os.uskoplje@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Gromiljak' Kiseljak",
@@ -4755,7 +5119,8 @@ export const schools = [
     Longitude: "18.0544354",
     Phone: "38730877462",
     Email: "os.gromiljak@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Kiseljak 1' Bilalovac Kiseljak",
@@ -4768,7 +5133,8 @@ export const schools = [
     Longitude: "18.07753897",
     Phone: "38730594005",
     Email: "oskiseljak1bilalovac@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Dr. Boris Ćorić' Kreševo",
@@ -4781,7 +5147,8 @@ export const schools = [
     Longitude: "18.04004456",
     Phone: "38730806710",
     Email: "o.s.kresevo@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna Glazbena škola Jakova Gotovca Novi Travnik Novi Travnik",
@@ -4794,7 +5161,8 @@ export const schools = [
     Longitude: "17.65566999",
     Phone: "38730791182",
     Email: "glazbena.skola-jakova.gotovca@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Novi Travnik' Novi Travnik",
@@ -4807,7 +5175,8 @@ export const schools = [
     Longitude: "17.65851731",
     Phone: "38730793027",
     Email: "os.novi.travnik@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Safvet-Beg Bašagić' Novi Travnik",
@@ -4820,7 +5189,8 @@ export const schools = [
     Longitude: "17.65096017",
     Phone: "38730525013",
     Email: "oskolasafvetn.tr@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna Muzička škola",
@@ -4833,7 +5203,8 @@ export const schools = [
     Longitude: "17.6634283",
     Phone: "38730512130",
     Email: "muzickaskolatr@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Dolac'",
@@ -4846,7 +5217,8 @@ export const schools = [
     Longitude: "17.69059206",
     Phone: "38730540737",
     Email: "os.skoladolac@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Guča Gora' Travnik",
@@ -4859,7 +5231,8 @@ export const schools = [
     Longitude: "17.73526607",
     Phone: "38730560019",
     Email: "os.gucagora@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Han Bila' Travnik",
@@ -4872,7 +5245,8 @@ export const schools = [
     Longitude: "17.75954881",
     Phone: "38730562402",
     Email: "skola-hb@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Kalibunar'",
@@ -4885,7 +5259,8 @@ export const schools = [
     Longitude: "17.64176297",
     Phone: "38730510442",
     Email: "oskola_kalibunar@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Mehurići'",
@@ -4898,7 +5273,8 @@ export const schools = [
     Longitude: "17.73457461",
     Phone: "38730564402",
     Email: "osmehurici@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Travnik'",
@@ -4911,7 +5287,8 @@ export const schools = [
     Longitude: "17.65521634",
     Phone: "38730518697",
     Email: "ostravnik@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Turbe'",
@@ -4924,7 +5301,8 @@ export const schools = [
     Longitude: "17.57118207",
     Phone: "38730530092",
     Email: "osskola.turbe@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Bila'",
@@ -4937,7 +5315,8 @@ export const schools = [
     Longitude: "17.75794403",
     Phone: "38730716243",
     Email: "skolabila@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Dubravica'",
@@ -4950,7 +5329,8 @@ export const schools = [
     Longitude: "17.80926284",
     Phone: "38730712775",
     Email: "skola.dubravica@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Vitez'",    
@@ -4963,7 +5343,8 @@ export const schools = [
     Longitude: "17.79022753",
     Phone: "38730711579",
     Email: "osnovnaskola.vitez@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola ''Vitez''",
@@ -4976,7 +5357,8 @@ export const schools = [
     Longitude: "17.789918",
     Phone: "38730710998",
     Email: "os-vitez@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Nova Bila' Nova Bila",
@@ -4989,7 +5371,8 @@ export const schools = [
     Longitude: "17.73849308",
     Phone: "38730708057",
     Email: "osnovabila@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Prva Osnovna škola'",
@@ -5002,7 +5385,8 @@ export const schools = [
     Longitude: "17.45268347",
     Phone: "38730253440",
     Email: "posbugojno@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Berta Kučera'",
@@ -5015,7 +5399,8 @@ export const schools = [
     Longitude: "17.27431675",
     Phone: "38730654297",
     Email: "bertajajce@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola '13. Rujan' Jajce",
@@ -5028,7 +5413,8 @@ export const schools = [
     Longitude: "17.26409989",
     Phone: "38730654133",
     Email: "os.13.rujan@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Braća Jezerčić' Divičani - Jajce Jajce",
@@ -5041,7 +5427,8 @@ export const schools = [
     Longitude: "17.32592996",
     Phone: "38730654612",
     Email: "os.divicani@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Voljevac'",
@@ -5054,7 +5441,8 @@ export const schools = [
     Longitude: "17.66073242",
     Phone: "38730260567",
     Email: "osvoljevac@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Pajić Polje'",
@@ -5067,7 +5455,8 @@ export const schools = [
     Longitude: "17.52589563",
     Phone: "38730286827",
     Email: "ppolje@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Hasan Kjafija-Pruščak'",
@@ -5080,7 +5469,8 @@ export const schools = [
     Longitude: "17.37797801",
     Phone: "38730271162",
     Email: "drugaosprusac@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Četvrta Osnovna škola",
@@ -5093,7 +5483,8 @@ export const schools = [
     Longitude: "17.31285772",
     Phone: "38730275111",
     Email: "os.torlakovac@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Edhem Mulabdić'",
@@ -5106,7 +5497,8 @@ export const schools = [
     Longitude: "17.65155679",
     Phone: "38730527002",
     Email: "skola-opara@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Mehmedalija Mak Dizdar'",
@@ -5119,7 +5511,8 @@ export const schools = [
     Longitude: "17.61290269",
     Phone: "38730542931",
     Email: "os.mak@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Musa Ćazim Ćatić'",
@@ -5132,7 +5525,8 @@ export const schools = [
     Longitude: "17.66956171",
     Phone: "38730529451",
     Email: "skolatrenica@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Fra Marijan Šunjić'",
@@ -5145,7 +5539,8 @@ export const schools = [
     Longitude: "17.68548924",
     Phone: "38730791063",
     Email: "osstojkovici@net.hr",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Ivan Goran Kovačić'",
@@ -5158,7 +5553,8 @@ export const schools = [
     Longitude: "17.94488459",
     Phone: "38730803206",
     Email: "os.igk-gojevici@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Dubravica'",
@@ -5171,7 +5567,8 @@ export const schools = [
     Longitude: "17.8142452",
     Phone: "38730545442",
     Email: "os_dubravica@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Kaonik'",
@@ -5184,7 +5581,8 @@ export const schools = [
     Longitude: "17.87487899",
     Phone: "38730736058",
     Email: "oskaonik@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Kiseljak 2'",
@@ -5197,7 +5595,8 @@ export const schools = [
     Longitude: "18.11435722",
     Phone: "38730596200",
     Email: "oskis2zabrdje@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Kiseljak'",
@@ -5210,7 +5609,8 @@ export const schools = [
     Longitude: "18.07753897",
     Phone: "38730877358",
     Email: "os.kiseljak@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Brestovsko'",
@@ -5223,7 +5623,8 @@ export const schools = [
     Longitude: "18.02830487",
     Phone: "38730876063",
     Email: "os.brestovsko1@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Lepenica'",
@@ -5236,7 +5637,8 @@ export const schools = [
     Longitude: "18.14587146",
     Phone: "38730873154",
     Email: "os.lepenica@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Vitovlje'",
@@ -5249,7 +5651,8 @@ export const schools = [
     Longitude: "17.4941484",
     Phone: "38730539555",
     Email: "osvitovlje01@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna Muzička škola",
@@ -5262,7 +5665,8 @@ export const schools = [
     Longitude: "17.65329312",
     Phone: "38730525533",
     Email: "omsnovitravnik2010@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Katolički školski centar 'Petar Barbarić' - Osnovna škola Travnik",
@@ -5275,7 +5679,8 @@ export const schools = [
     Longitude: "17.66188083",
     Phone: "38730518823",
     Email: "ksctr@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola 'Jajce'",
@@ -5288,7 +5693,8 @@ export const schools = [
     Longitude: "17.786982",
     Phone: "38730279568",
     Email: "osjajcekruscica@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita Srednja škola Bugojno",
@@ -5301,7 +5707,8 @@ export const schools = [
     Longitude: "17.44782234",
     Phone: "38730260112",
     Email: "gimnazija_bug@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja Stručna škola Bugojno",
@@ -5314,7 +5721,8 @@ export const schools = [
     Longitude: "17.43733308",
     Phone: "38730252207",
     Email: "srednjastrucna@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja Tehnička škola Bugojno",
@@ -5327,7 +5735,8 @@ export const schools = [
     Longitude: "17.4387525",
     Phone: "38730251915",
     Email: "tehskolabu@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Busovača'",
@@ -5340,7 +5749,8 @@ export const schools = [
     Longitude: "17.87916574",
     Phone: "38730732042",
     Email: "ssbusovaca@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja Mješovita škola 'Zijah Dizdarević'",
@@ -5353,7 +5763,8 @@ export const schools = [
     Longitude: "17.90201776",
     Phone: "38730544370",
     Email: "smszijahdizdarevic@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Nikola Šop'",
@@ -5366,7 +5777,8 @@ export const schools = [
     Longitude: "17.27555469",
     Phone: "38730654174",
     Email: "gimnazija.nikola.sop@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja Strukovna škola 'Jajce'",
@@ -5379,7 +5791,8 @@ export const schools = [
     Longitude: "17.25353151",
     Phone: "38730654273",
     Email: "ss-skola-jajce@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja Strukovna škola Fojnica u Kiseljaku",
@@ -5392,7 +5805,8 @@ export const schools = [
     Longitude: "18.07753897",
     Phone: "38730879113",
     Email: "srednjaskolafoj@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Ivan Goran Kovačić'",
@@ -5405,7 +5819,8 @@ export const schools = [
     Longitude: "18.07979395",
     Phone: "38730879002",
     Email: "srednjaskolakis@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Kreševo'",
@@ -5418,7 +5833,8 @@ export const schools = [
     Longitude: "18.0539",
     Phone: "38730800202",
     Email: "ss.kresevo@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita Srednja škola'",
@@ -5431,7 +5847,8 @@ export const schools = [
     Longitude: "17.64830704",
     Phone: "38730525407",
     Email: "jasmina_ntr@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja Glazbena škola Jakova Gotovca",
@@ -5444,7 +5861,8 @@ export const schools = [
     Longitude: "17.6578985",
     Phone: "38730791076",
     Email: "sr.gl.sk.jakova.gotovca@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Novi Travnik'",
@@ -5457,7 +5875,8 @@ export const schools = [
     Longitude: "17.65731864",
     Phone: "38730793504",
     Email: "ss-novi.travnik@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita Srednja Ekonomsko-Ugostiteljska škola",
@@ -5470,7 +5889,8 @@ export const schools = [
     Longitude: "17.6569607",
     Phone: "38730541621",
     Email: "mseus@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita Srednja škola 'Travnik'",
@@ -5483,7 +5903,8 @@ export const schools = [
     Longitude: "17.66231183",
     Phone: "38730511059",
     Email: "mss.travnik@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita Srednja Tehnička škola Travnik",
@@ -5496,7 +5917,8 @@ export const schools = [
     Longitude: "17.65685096",
     Phone: "38730510280",
     Email: "psecurity@msts-travnik.net",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Vitez'",
@@ -5509,7 +5931,8 @@ export const schools = [
     Longitude: "17.78905149",
     Phone: "38730711336",
     Email: "ss.vitez@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita Srednja škola 'Vitez'",
@@ -5522,7 +5945,8 @@ export const schools = [
     Longitude: "17.78892773",
     Phone: "38730717540",
     Email: "mss.vitez.kruscica@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita Srednja škola ''Gornji Vakuf'",
@@ -5535,7 +5959,8 @@ export const schools = [
     Longitude: "17.58144622",
     Phone: "38730265654",
     Email: "mssgv@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Uskoplje'",
@@ -5548,7 +5973,8 @@ export const schools = [
     Longitude: "17.58111609",
     Phone: "38730494039",
     Email: "sskola.uskoplje@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita Srednja škola",
@@ -5561,7 +5987,8 @@ export const schools = [
     Longitude: "17.40191754",
     Phone: "38730205355",
     Email: "mssdvakuf@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Travnik'",
@@ -5574,7 +6001,8 @@ export const schools = [
     Longitude: "17.73756042",
     Phone: "38730707486",
     Email: "ss.travnik@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita Srednja škola",
@@ -5587,7 +6015,8 @@ export const schools = [
     Longitude: "17.88044054",
     Phone: "38730593155",
     Email: "mail@mssbusovaca.com.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Katolički školski Centar 'Petar Barbarić' - Gimnazija Travnik",
@@ -5600,7 +6029,8 @@ export const schools = [
     Longitude: "17.66163326",
     Phone: "38730518823",
     Email: "ksctr@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna škola Orašje",
@@ -5613,7 +6043,8 @@ export const schools = [
     Longitude: "18.689056",
     Phone: "38731712137",
     Email: "osnovnaskolaorasje@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Ruđera Boškovića",
@@ -5626,7 +6057,8 @@ export const schools = [
     Longitude: "18.66735",
     Phone: "38731713045",
     Email: "os.donja.mahala@tel.net.ba",
-    Url: "www.tel.net.ba/oskola-d.mahala"
+    Url: "www.tel.net.ba/oskola-d.mahala",
+    Owner: ""
   },
   {
     Name: "Antuna Gustava Matoša",
@@ -5639,7 +6071,8 @@ export const schools = [
     Longitude: "18.736075",
     Phone: "38731731332",
     Email: "",
-    Url: "www.tel.net.ba/os-vidovice"
+    Url: "www.tel.net.ba/os-vidovice",
+    Owner: ""
   },
   {
     Name: "Stjepana Radića Oštra Luka-Bok",
@@ -5652,7 +6085,8 @@ export const schools = [
     Longitude: "18.62237",
     Phone: "38731772029",
     Email: "os.stjepanaradic.ol@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Braće Radića",
@@ -5665,7 +6099,8 @@ export const schools = [
     Longitude: "18.576848",
     Phone: "38731791055",
     Email: "os.domaljevac@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Fra Ilije Starčevića",
@@ -5678,7 +6113,8 @@ export const schools = [
     Longitude: "18.640624",
     Phone: "38731754077",
     Email: "osnovna.skola.tolisa@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Vladimira Nazora",
@@ -5691,7 +6127,8 @@ export const schools = [
     Longitude: "18.327455",
     Phone: "38731761247",
     Email: "os.vladimir.nazor@tel.net.ba",
-    Url: "www.tel.net.ba/osvnazora-odzak"
+    Url: "www.tel.net.ba/osvnazora-odzak",
+    Owner: ""
   },
   {
     Name: "Fra Martina Nedića",
@@ -5704,7 +6141,8 @@ export const schools = [
     Longitude: "18.690321",
     Phone: "38731712131",
     Email: "sskola.orasje@skor.ba",
-    Url: "www.skor.ba"
+    Url: "www.skor.ba",
+    Owner: ""
   },
   {
     Name: "Pere Zečevića",
@@ -5717,7 +6155,8 @@ export const schools = [
     Longitude: "18.324321",
     Phone: "38731761865",
     Email: "office@sskola-odzak.edu.ba",
-    Url: "www.sskola-odzak.edu.ba"
+    Url: "www.sskola-odzak.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ 'Ivan Goran Kovačić'",
@@ -5730,7 +6169,8 @@ export const schools = [
     Longitude: "17.004511",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ 'Fra Lovro Karaula'",
@@ -5743,7 +6183,8 @@ export const schools = [
     Longitude: "16.998913",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna glazbena škola 'Franjo S. Vilhar'",
@@ -5756,7 +6197,8 @@ export const schools = [
     Longitude: "17.007039",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Stjepana Radića Prisoje",
@@ -5769,7 +6211,8 @@ export const schools = [
     Longitude: "17.085305",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Ivana Mažuranića",
@@ -5782,7 +6225,8 @@ export const schools = [
     Longitude: "17.233692",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Fra Mije Čuića Bukovica",
@@ -5795,7 +6239,8 @@ export const schools = [
     Longitude: "17.305237",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna glazbena škola 'Tomislavgrad'",
@@ -5808,7 +6253,8 @@ export const schools = [
     Longitude: "17.225479",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ 'Drvar'",
@@ -5821,7 +6267,8 @@ export const schools = [
     Longitude: "16.387648",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Fra Miroslava džaje",
@@ -5834,7 +6281,8 @@ export const schools = [
     Longitude: "17.278532",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ 'Fra Franjo Glavinić'",
@@ -5847,7 +6295,8 @@ export const schools = [
     Longitude: "16.852048",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ 'Grahovo'",
@@ -5860,7 +6309,8 @@ export const schools = [
     Longitude: "16.362112",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Branko Ćopićš",
@@ -5873,7 +6323,8 @@ export const schools = [
     Longitude: "17.201942",
     Phone: "38751258302",
     Email: "os001@skolers.org",
-    Url: "http://www.osbrankocopic.net/"
+    Url: "http://www.osbrankocopic.net/",
+    Owner: ""
   },
   {
     Name: "OŠ Dositej Obradovićš",
@@ -5886,7 +6337,8 @@ export const schools = [
     Longitude: "17.187714",
     Phone: "38751461826",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Zmaj Jova Jovanović",
@@ -5899,7 +6351,8 @@ export const schools = [
     Longitude: "17.180008",
     Phone: "38751431770",
     Email: "",
-    Url: "http://www.oszmajjovajovanovic.edu.ba/"
+    Url: "http://www.oszmajjovajovanovic.edu.ba/",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Petrović Njegošš",
@@ -5912,7 +6365,8 @@ export const schools = [
     Longitude: "17.194059",
     Phone: "38751",
     Email: "os004@skolers.org",
-    Url: "http://www.osppnjegos.rs.ba/"
+    Url: "http://www.osppnjegos.rs.ba/",
+    Owner: ""
   },
   {
     Name: "OŠ Branislav Nušić",
@@ -5925,7 +6379,8 @@ export const schools = [
     Longitude: "17.155416",
     Phone: "38751412020",
     Email: "os005@skolers.org",
-    Url: "https://osbranislavnusic.wordpress.com/"
+    Url: "https://osbranislavnusic.wordpress.com/",
+    Owner: ""
   },
   {
     Name: "OŠ Ivan Goran Kovačić",
@@ -5938,7 +6393,8 @@ export const schools = [
     Longitude: "17.206315",
     Phone: "38751345150",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -5951,7 +6407,8 @@ export const schools = [
     Longitude: "17.168144",
     Phone: "38751288890",
     Email: "os007@skolers.org",
-    Url: "http://www.ossvetisava.edu.ba/"
+    Url: "http://www.ossvetisava.edu.ba/",
+    Owner: ""
   },
   {
     Name: "OŠ Jovan Cvijić",
@@ -5964,7 +6421,8 @@ export const schools = [
     Longitude: "17.181435",
     Phone: "38751212374",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Branko Radićević",
@@ -5977,7 +6435,8 @@ export const schools = [
     Longitude: "17.205805",
     Phone: "38751436825",
     Email: "os009@skolers.org",
-    Url: "http://brankoradicevic-bl.rs.ba/"
+    Url: "http://brankoradicevic-bl.rs.ba/",
+    Owner: ""
   },
   {
     Name: "OŠ Ivo Andrić",
@@ -5990,7 +6449,8 @@ export const schools = [
     Longitude: "17.187647",
     Phone: "38751213196",
     Email: "os010@skolers.rs",
-    Url: "http://osivoandric.org/"
+    Url: "http://osivoandric.org/",
+    Owner: ""
   },
   {
     Name: "OŠ Aleksa Šantić",
@@ -6003,7 +6463,8 @@ export const schools = [
     Longitude: "17.200237",
     Phone: "38751327451",
     Email: "",
-    Url: "http://skolasantic.com/"
+    Url: "http://skolasantic.com/",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk S. Karadžićš",
@@ -6016,7 +6477,8 @@ export const schools = [
     Longitude: "17.20503",
     Phone: "38751254071",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Borisav Stanković",
@@ -6029,7 +6491,8 @@ export const schools = [
     Longitude: "17.210423",
     Phone: "38751371126",
     Email: "",
-    Url: "https://osbsbl.org/"
+    Url: "https://osbsbl.org/",
+    Owner: ""
   },
   {
     Name: "OŠ Georgi S. Rakovski",
@@ -6042,7 +6505,8 @@ export const schools = [
     Longitude: "17.194085",
     Phone: "38751309658",
     Email: "",
-    Url: "http://www.georgistojkovrakovski.rs.ba/"
+    Url: "http://www.georgistojkovrakovski.rs.ba/",
+    Owner: ""
   },
   {
     Name: "OŠ Mladen Stojanovićš",
@@ -6055,7 +6519,8 @@ export const schools = [
     Longitude: "17.305263",
     Phone: "38751535517",
     Email: "os054@teol.net",
-    Url: "http://osmladenstojanovic.com"
+    Url: "http://osmladenstojanovic.com",
+    Owner: ""
   },
   {
     Name: "OŠ Miroslav Antić",
@@ -6068,7 +6533,8 @@ export const schools = [
     Longitude: "17.051347",
     Phone: "38751277057",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Janko Veselinovićš",
@@ -6081,7 +6547,8 @@ export const schools = [
     Longitude: "17.113226",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Desanka Maksimovićš",
@@ -6094,7 +6561,8 @@ export const schools = [
     Longitude: "17.160939",
     Phone: "38751392166",
     Email: "os018@skolers.org",
-    Url: "https://osdmaksimovicbl.org/"
+    Url: "https://osdmaksimovicbl.org/",
+    Owner: ""
   },
   {
     Name: "OŠ Milutin Bojić",
@@ -6107,7 +6575,8 @@ export const schools = [
     Longitude: "17.067602",
     Phone: "38751395365",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Kočićš",
@@ -6120,7 +6589,8 @@ export const schools = [
     Longitude: "17.084168",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Milan Rakićš",
@@ -6133,7 +6603,8 @@ export const schools = [
     Longitude: "17.19477",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vojislav Ilić",
@@ -6146,7 +6617,8 @@ export const schools = [
     Longitude: "17.146216",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Ćirilo i Metodije",
@@ -6159,7 +6631,8 @@ export const schools = [
     Longitude: "16.976512",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Đura Jakšić",
@@ -6172,7 +6645,8 @@ export const schools = [
     Longitude: "17.197993",
     Phone: "38751380980",
     Email: "os024@skolers.org",
-    Url: "http://osdjurajaksicbl.org/"
+    Url: "http://osdjurajaksicbl.org/",
+    Owner: ""
   },
   {
     Name: "OŠ Stanko Rakitaš",
@@ -6185,7 +6659,8 @@ export const schools = [
     Longitude: "17.250562",
     Phone: "38751424085",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Jovan Dučićš",
@@ -6198,7 +6673,8 @@ export const schools = [
     Longitude: "17.217334",
     Phone: "38751389381",
     Email: "",
-    Url: "http://www.osjovanduciczaluzani.edu.ba"
+    Url: "http://www.osjovanduciczaluzani.edu.ba",
+    Owner: ""
   },
   {
     Name: "OŠ Miloš Crnjanskiš",
@@ -6211,7 +6687,8 @@ export const schools = [
     Longitude: "17.18992",
     Phone: "38751358121",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Muzička škola Vlado Milošević",
@@ -6224,7 +6701,8 @@ export const schools = [
     Longitude: "17.186444",
     Phone: "38751214739",
     Email: "",
-    Url: "http://muzicka-skola.org/"
+    Url: "http://muzicka-skola.org/",
+    Owner: ""
   },
   {
     Name: "Centar za obrazovanje, vaspitanje i rehabilitaciju sluha i govora",
@@ -6237,7 +6715,8 @@ export const schools = [
     Longitude: "17.179728",
     Phone: "38751214491",
     Email: "",
-    Url: "http://www.centar-ovrsg.com"
+    Url: "http://www.centar-ovrsg.com",
+    Owner: ""
   },
   {
     Name: "Dječiji dom Rada Vranješević",
@@ -6250,7 +6729,8 @@ export const schools = [
     Longitude: "17.176423",
     Phone: "38751461932",
     Email: "",
-    Url: "http://www.djecijidom.com/"
+    Url: "http://www.djecijidom.com/",
+    Owner: ""
   },
   {
     Name: "Centar Zaštiti me",
@@ -6263,7 +6743,8 @@ export const schools = [
     Longitude: "17.174464",
     Phone: "38751201708",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Danilo Borković",
@@ -6276,7 +6757,8 @@ export const schools = [
     Longitude: "17.259792",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vasa Čubrilović",
@@ -6289,7 +6771,8 @@ export const schools = [
     Longitude: "17.253029",
     Phone: "38751813313",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Kozarska djecaš",
@@ -6302,7 +6785,8 @@ export const schools = [
     Longitude: "17.233257",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Mladen Stojanovićš",
@@ -6315,7 +6799,8 @@ export const schools = [
     Longitude: "17.305339",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Kočićš",
@@ -6328,7 +6813,8 @@ export const schools = [
     Longitude: "17.306877",
     Phone: "38751891010",
     Email: "",
-    Url: "http://www.nova-topola.rs.ba"
+    Url: "http://www.nova-topola.rs.ba",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk S. Karadžićš",
@@ -6341,7 +6827,8 @@ export const schools = [
     Longitude: "17.148624",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -6354,7 +6841,8 @@ export const schools = [
     Longitude: "17.291473",
     Phone: "38751860410",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna muzička škola B. Smiljanić",
@@ -6367,7 +6855,8 @@ export const schools = [
     Longitude: "17.250064",
     Phone: "38751",
     Email: "",
-    Url: "http://oms-brankosmiljanic.com/"
+    Url: "http://oms-brankosmiljanic.com/",
+    Owner: ""
   },
   {
     Name: "OŠ Miloš Dujić",
@@ -6380,7 +6869,8 @@ export const schools = [
     Longitude: "17.319974",
     Phone: "38751551009",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Novak Pivašević",
@@ -6393,7 +6883,8 @@ export const schools = [
     Longitude: "17.568072",
     Phone: "38751561255",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Mladen Stojanovićš",
@@ -6406,7 +6897,8 @@ export const schools = [
     Longitude: "17.418117",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -6419,7 +6911,8 @@ export const schools = [
     Longitude: "17.371712",
     Phone: "38751927220",
     Email: "",
-    Url: "http://svetisava-kotorvaros.org/"
+    Url: "http://svetisava-kotorvaros.org/",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Petrović Njegoš",
@@ -6432,7 +6925,8 @@ export const schools = [
     Longitude: "17.53503",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Kočić",
@@ -6445,7 +6939,8 @@ export const schools = [
     Longitude: "17.565291",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Mladen Stojanović",
@@ -6458,7 +6953,8 @@ export const schools = [
     Longitude: "17.305317",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Georgios A. Papandreu",
@@ -6471,7 +6967,8 @@ export const schools = [
     Longitude: "17.316396",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Holandija",
@@ -6484,7 +6981,8 @@ export const schools = [
     Longitude: "17.307982",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Desanka Maksimović",
@@ -6497,7 +6995,8 @@ export const schools = [
     Longitude: "17.239765",
     Phone: "38751584487",
     Email: "",
-    Url: "http://www.osdesankam-trn.org/"
+    Url: "http://www.osdesankam-trn.org/",
+    Owner: ""
   },
   {
     Name: "OŠ Branko Ćopić",
@@ -6510,7 +7009,8 @@ export const schools = [
     Longitude: "17.670133",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Nikola Tesla",
@@ -6523,7 +7023,8 @@ export const schools = [
     Longitude: "17.660425",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -6536,7 +7037,8 @@ export const schools = [
     Longitude: "17.604387",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -6549,7 +7051,8 @@ export const schools = [
     Longitude: "17.7417642",
     Phone: "38751668653",
     Email: "os079@skolers.org",
-    Url: "https://ossvetisavasmrtici.org/"
+    Url: "https://ossvetisavasmrtici.org/",
+    Owner: ""
   },
   {
     Name: "OŠ Ivo Andrić",
@@ -6562,7 +7065,8 @@ export const schools = [
     Longitude: "17.7414",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Meša Selimović",
@@ -6575,7 +7079,8 @@ export const schools = [
     Longitude: "17.560411",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Miloš Crnjanski",
@@ -6588,7 +7093,8 @@ export const schools = [
     Longitude: "17.492096",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Kočić",
@@ -6601,7 +7107,8 @@ export const schools = [
     Longitude: "17.651117",
     Phone: "38751684122",
     Email: "os083@skolers.org",
-    Url: "https://ospetarkocic-sibovska.org/"
+    Url: "https://ospetarkocic-sibovska.org/",
+    Owner: ""
   },
   {
     Name: "OŠ Osnovna muzička škola",
@@ -6614,7 +7121,8 @@ export const schools = [
     Longitude: "17.665899",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Dositej Obradović",
@@ -6627,7 +7135,8 @@ export const schools = [
     Longitude: "17.378132",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Kočić",
@@ -6640,7 +7149,8 @@ export const schools = [
     Longitude: "16.988989",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -6653,7 +7163,8 @@ export const schools = [
     Longitude: "17.344752",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Jovan Jovanović Zmaj",
@@ -6666,7 +7177,8 @@ export const schools = [
     Longitude: "17.51832",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -6679,7 +7191,8 @@ export const schools = [
     Longitude: "17.566678",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Dositej Obradović",
@@ -6692,7 +7205,8 @@ export const schools = [
     Longitude: "17.449926",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Kočić",
@@ -6705,7 +7219,8 @@ export const schools = [
     Longitude: "17.085999",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Ivan Goran Kovačić",
@@ -6718,7 +7233,8 @@ export const schools = [
     Longitude: "17.084986",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -6731,7 +7247,8 @@ export const schools = [
     Longitude: "16.936731",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Branko Ćopić",
@@ -6744,7 +7261,8 @@ export const schools = [
     Longitude: "17.150386",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Nemanja Vlatković",
@@ -6757,7 +7275,8 @@ export const schools = [
     Longitude: "17.087",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Rade Marijanac",
@@ -6770,7 +7289,8 @@ export const schools = [
     Longitude: "17.161712",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Drinić",
@@ -6783,7 +7303,8 @@ export const schools = [
     Longitude: "16.467187",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -6796,7 +7317,8 @@ export const schools = [
     Longitude: "17.165736",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Nikola Mačkić",
@@ -6809,7 +7331,8 @@ export const schools = [
     Longitude: "16.820113",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Desanka Maksimović",
@@ -6822,7 +7345,8 @@ export const schools = [
     Longitude: "16.816804",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Kočić",
@@ -6835,7 +7359,8 @@ export const schools = [
     Longitude: "16.933105",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Branko Ćopić",
@@ -6848,7 +7373,8 @@ export const schools = [
     Longitude: "16.715734",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Kočić",
@@ -6861,7 +7387,8 @@ export const schools = [
     Longitude: "16.723473",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Specijalna škola Đorđe Natošević",
@@ -6874,7 +7401,8 @@ export const schools = [
     Longitude: "16.7107",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Dositej Obradović",
@@ -6887,7 +7415,8 @@ export const schools = [
     Longitude: "16.704646",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Desanka Maksimović",
@@ -6900,7 +7429,8 @@ export const schools = [
     Longitude: "16.709544",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Muzička škola",
@@ -6913,7 +7443,8 @@ export const schools = [
     Longitude: "16.710088",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Jovan Cvijić",
@@ -6926,7 +7457,8 @@ export const schools = [
     Longitude: "16.65576",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Petrović Njegoš",
@@ -6939,7 +7471,8 @@ export const schools = [
     Longitude: "16.809317",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Branko Radićević",
@@ -6952,7 +7485,8 @@ export const schools = [
     Longitude: "16.73943",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Jovan Dučić",
@@ -6965,7 +7499,8 @@ export const schools = [
     Longitude: "16.927911",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Mladen Stojanović",
@@ -6978,7 +7513,8 @@ export const schools = [
     Longitude: "16.607222",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -6991,7 +7527,8 @@ export const schools = [
     Longitude: "16.897794",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Ćirilo i Metodije",
@@ -7004,7 +7541,8 @@ export const schools = [
     Longitude: "16.804293",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Dom za djecu i oml. ometenu u razvoju",
@@ -7017,7 +7555,8 @@ export const schools = [
     Longitude: "16.733373",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Kozarac",
@@ -7030,7 +7569,8 @@ export const schools = [
     Longitude: "16.839998",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -7043,7 +7583,8 @@ export const schools = [
     Longitude: "16.383436",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -7056,7 +7597,8 @@ export const schools = [
     Longitude: "16.375142",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Branko Ćopić",
@@ -7069,7 +7611,8 @@ export const schools = [
     Longitude: "16.465068",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Dragan Vujanović",
@@ -7082,7 +7625,8 @@ export const schools = [
     Longitude: "16.5375",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Mećava",
@@ -7095,7 +7639,8 @@ export const schools = [
     Longitude: "16.541791",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -7108,7 +7653,8 @@ export const schools = [
     Longitude: "16.805912",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Stefanović Karadžić",
@@ -7121,7 +7667,8 @@ export const schools = [
     Longitude: "16.815049",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Majka Knežopoljka",
@@ -7134,7 +7681,8 @@ export const schools = [
     Longitude: "16.677021",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Škundrić",
@@ -7147,7 +7695,8 @@ export const schools = [
     Longitude: "16.429031",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Josif Pančić",
@@ -7160,7 +7709,8 @@ export const schools = [
     Longitude: "16.823555",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Desanka Maksimović",
@@ -7173,7 +7723,8 @@ export const schools = [
     Longitude: "16.689663",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Branko Ćopić",
@@ -7186,7 +7737,8 @@ export const schools = [
     Longitude: "16.322869",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Stefanović Karadžić",
@@ -7199,7 +7751,8 @@ export const schools = [
     Longitude: "18.089204",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Dositej Obradović",
@@ -7212,7 +7765,8 @@ export const schools = [
     Longitude: "18.081878",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -7225,7 +7779,8 @@ export const schools = [
     Longitude: "18.085413",
     Phone: "38753203670",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Petrović Njegoš",
@@ -7238,7 +7793,8 @@ export const schools = [
     Longitude: "18.220653",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Radoje Domanović",
@@ -7251,7 +7807,8 @@ export const schools = [
     Longitude: "18.113899",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Đura Jakšić",
@@ -7264,7 +7821,8 @@ export const schools = [
     Longitude: "18.112642",
     Phone: "38753280007",
     Email: "os115@skolers.org",
-    Url: "https://osdjurajaksic-podnovlje.com/"
+    Url: "https://osdjurajaksic-podnovlje.com/",
+    Owner: ""
   },
   {
     Name: "OŠ Milan Rakić",
@@ -7277,7 +7835,8 @@ export const schools = [
     Longitude: "18.035264",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Kočić",
@@ -7290,7 +7849,8 @@ export const schools = [
     Longitude: "18.161028",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Desanka Maksimović",
@@ -7303,7 +7863,8 @@ export const schools = [
     Longitude: "17.839979",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ šOzren",
@@ -7316,7 +7877,8 @@ export const schools = [
     Longitude: "18.104694",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Muzička škola",
@@ -7329,7 +7891,8 @@ export const schools = [
     Longitude: "18.081893",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -7342,7 +7905,8 @@ export const schools = [
     Longitude: "17.846122",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Petrović Njegoš",
@@ -7355,7 +7919,8 @@ export const schools = [
     Longitude: "17.862629",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Dositej Obradović",
@@ -7368,7 +7933,8 @@ export const schools = [
     Longitude: "17.822533",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Kočić",
@@ -7381,7 +7947,8 @@ export const schools = [
     Longitude: "17.742127",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Stevan Dušanić",
@@ -7394,7 +7961,8 @@ export const schools = [
     Longitude: "17.690615",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Ivo Andrić",
@@ -7407,7 +7975,8 @@ export const schools = [
     Longitude: "17.817143",
     Phone: "38753420484",
     Email: "os098@skolers.org",
-    Url: "https://juosivoandricts.org/"
+    Url: "https://juosivoandricts.org/",
+    Owner: ""
   },
   {
     Name: "OŠ Jevrem Stanković",
@@ -7420,7 +7989,8 @@ export const schools = [
     Longitude: "17.770382",
     Phone: "38753455040",
     Email: "os099@skolers.org",
-    Url: "https://osjevremstankovic.org/"
+    Url: "https://osjevremstankovic.org/",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -7433,7 +8003,8 @@ export const schools = [
     Longitude: "17.881023",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -7446,7 +8017,8 @@ export const schools = [
     Longitude: "18.013301",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Liješća",
@@ -7459,7 +8031,8 @@ export const schools = [
     Longitude: "19.555574",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ š19. april",
@@ -7472,7 +8045,8 @@ export const schools = [
     Longitude: "17.903835",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Nikola Tesla",
@@ -7485,7 +8059,8 @@ export const schools = [
     Longitude: "17.907378",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Todor Dokić",
@@ -7498,7 +8073,8 @@ export const schools = [
     Longitude: "17.813782",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Đorđe Panzalović",
@@ -7511,7 +8087,8 @@ export const schools = [
     Longitude: "17.864992",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Zavod za slijepe i slabov. Budućnost",
@@ -7524,7 +8101,8 @@ export const schools = [
     Longitude: "17.907817",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -7537,7 +8115,8 @@ export const schools = [
     Longitude: "18.297335",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sutjeska",
@@ -7550,7 +8129,8 @@ export const schools = [
     Longitude: "18.305403",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -7563,7 +8143,8 @@ export const schools = [
     Longitude: "18.360147",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -7576,7 +8157,8 @@ export const schools = [
     Longitude: "18.330843",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Aleksa Šantić",
@@ -7589,7 +8171,8 @@ export const schools = [
     Longitude: "18.268517",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ ššamac",
@@ -7602,7 +8185,8 @@ export const schools = [
     Longitude: "18.472245",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ šCrkvina",
@@ -7615,7 +8199,8 @@ export const schools = [
     Longitude: "18.436827",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ šGornja Slatina",
@@ -7628,7 +8213,8 @@ export const schools = [
     Longitude: "18.471398",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ šObudovac",
@@ -7641,7 +8227,8 @@ export const schools = [
     Longitude: "18.597475",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Donji šabar",
@@ -7654,7 +8241,8 @@ export const schools = [
     Longitude: "18.642793",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vasa Pelagić",
@@ -7667,7 +8255,8 @@ export const schools = [
     Longitude: "18.605764",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Jovan Dučić",
@@ -7680,7 +8269,8 @@ export const schools = [
     Longitude: "19.221334",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -7693,7 +8283,8 @@ export const schools = [
     Longitude: "19.274067",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Knez Ivo od Semberije",
@@ -7706,7 +8297,8 @@ export const schools = [
     Longitude: "19.195006",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -7719,7 +8311,8 @@ export const schools = [
     Longitude: "19.213059",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Kočić",
@@ -7732,7 +8325,8 @@ export const schools = [
     Longitude: "19.304747",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Ćirilo i Metodije",
@@ -7745,7 +8339,8 @@ export const schools = [
     Longitude: "19.174485",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Stevan Nemanja",
@@ -7758,7 +8353,8 @@ export const schools = [
     Longitude: "19.03376",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Meša Selimović",
@@ -7771,7 +8367,8 @@ export const schools = [
     Longitude: "19.248933",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -7784,7 +8381,8 @@ export const schools = [
     Longitude: "19.125423",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Dositej Obradović",
@@ -7797,7 +8395,8 @@ export const schools = [
     Longitude: "19.097331",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Petrović Njegoš",
@@ -7810,7 +8409,8 @@ export const schools = [
     Longitude: "19.170314",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Muzička školaS. S. Mokranjac",
@@ -7823,7 +8423,8 @@ export const schools = [
     Longitude: "19.218942",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Dvorovi",
@@ -7836,7 +8437,8 @@ export const schools = [
     Longitude: "19.25863",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -7849,7 +8451,8 @@ export const schools = [
     Longitude: "18.845144",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Veljko Čubrilović",
@@ -7862,7 +8465,8 @@ export const schools = [
     Longitude: "18.928793",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Dositej Obradović",
@@ -7875,7 +8479,8 @@ export const schools = [
     Longitude: "18.880596",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ šAleksa Šantić",
@@ -7888,7 +8493,8 @@ export const schools = [
     Longitude: "18.997751",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Filip Višnjić",
@@ -7901,7 +8507,8 @@ export const schools = [
     Longitude: "19.093309",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -7914,7 +8521,8 @@ export const schools = [
     Longitude: "18.989023",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -7927,7 +8535,8 @@ export const schools = [
     Longitude: "19.103217",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Kočić",
@@ -7940,7 +8549,8 @@ export const schools = [
     Longitude: "19.112296",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Nikola Tesla",
@@ -7953,7 +8563,8 @@ export const schools = [
     Longitude: "19.142051",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -7966,7 +8577,8 @@ export const schools = [
     Longitude: "19.143928",
     Phone: "38756398082",
     Email: "os147@skolers.org",
-    Url: "https://www.osvukkaradzicrocevic.org/"
+    Url: "https://www.osvukkaradzicrocevic.org/",
+    Owner: ""
   },
   {
     Name: "Muzička škola",
@@ -7979,7 +8591,8 @@ export const schools = [
     Longitude: "19.102864",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Desanka Maksimović",
@@ -7992,7 +8605,8 @@ export const schools = [
     Longitude: "19.130726",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Dom za djecu i omladinu Kiseljak",
@@ -8005,7 +8619,8 @@ export const schools = [
     Longitude: "19.052457",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ šAleksa Šantić",
@@ -8018,7 +8633,8 @@ export const schools = [
     Longitude: "18.89967",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Jovan Cvijić",
@@ -8031,7 +8647,8 @@ export const schools = [
     Longitude: "19.148077",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -8044,7 +8661,8 @@ export const schools = [
     Longitude: "19.335016",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Branko Radićević",
@@ -8057,7 +8675,8 @@ export const schools = [
     Longitude: "19.330424",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Kočić",
@@ -8070,7 +8689,8 @@ export const schools = [
     Longitude: "19.198727",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -8083,7 +8703,8 @@ export const schools = [
     Longitude: "18.937078",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Braća Jakšić",
@@ -8096,7 +8717,8 @@ export const schools = [
     Longitude: "19.078298",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Jovan Dučić",
@@ -8109,7 +8731,8 @@ export const schools = [
     Longitude: "18.853599",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Petrović Njegoš",
@@ -8122,7 +8745,8 @@ export const schools = [
     Longitude: "19.294901",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Kosta Todorović",
@@ -8135,7 +8759,8 @@ export const schools = [
     Longitude: "19.5334",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Aleksa Šantić",
@@ -8148,7 +8773,8 @@ export const schools = [
     Longitude: "18.353521",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Jovan Dučić",
@@ -8161,7 +8787,8 @@ export const schools = [
     Longitude: "18.381488",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Petar Petrović Njegoš",
@@ -8174,7 +8801,8 @@ export const schools = [
     Longitude: "18.355068",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -8187,7 +8815,8 @@ export const schools = [
     Longitude: "18.364969",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Muzička škola",
@@ -8200,7 +8829,8 @@ export const schools = [
     Longitude: "18.367309",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sokolac",
@@ -8213,7 +8843,8 @@ export const schools = [
     Longitude: "18.79419",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Milan Ilić Čiča Šumadijski",
@@ -8226,7 +8857,8 @@ export const schools = [
     Longitude: "20.568816",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Mokro",
@@ -8239,7 +8871,8 @@ export const schools = [
     Longitude: "18.609808",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ šPale",
@@ -8252,7 +8885,8 @@ export const schools = [
     Longitude: "18.569799",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Srbija",
@@ -8265,7 +8899,8 @@ export const schools = [
     Longitude: "18.576943",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Trnovo",
@@ -8278,7 +8913,8 @@ export const schools = [
     Longitude: "18.44756",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -8291,7 +8927,8 @@ export const schools = [
     Longitude: "18.775954",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Veselin Masleša",
@@ -8304,7 +8941,8 @@ export const schools = [
     Longitude: "18.772346",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Muzička škola",
@@ -8317,7 +8955,8 @@ export const schools = [
     Longitude: "",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Rudo",
@@ -8330,7 +8969,8 @@ export const schools = [
     Longitude: "19.369296",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Boško Buha",
@@ -8343,7 +8983,8 @@ export const schools = [
     Longitude: "19.485556",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -8356,7 +8997,8 @@ export const schools = [
     Longitude: "19.299654",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -8369,7 +9011,8 @@ export const schools = [
     Longitude: "19.005488",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Jovan Dučić",
@@ -8382,7 +9025,8 @@ export const schools = [
     Longitude: "19.070771",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ šLjutica Bogdan",
@@ -8395,7 +9039,8 @@ export const schools = [
     Longitude: "18.443613",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Jovan Jovanović Zmaj",
@@ -8408,7 +9053,8 @@ export const schools = [
     Longitude: "18.344377",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Vasilije Ostroški",
@@ -8421,7 +9067,8 @@ export const schools = [
     Longitude: "18.357767",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Vuk Karadžić",
@@ -8434,7 +9081,8 @@ export const schools = [
     Longitude: "18.35346",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Muzička škola",
@@ -8447,7 +9095,8 @@ export const schools = [
     Longitude: "",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -8460,7 +9109,8 @@ export const schools = [
     Longitude: "18.090608",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "OŠ Sveti Sava",
@@ -8473,7 +9123,8 @@ export const schools = [
     Longitude: "18.427857",
     Phone: "38751",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Prva osnovna škola",
@@ -8486,7 +9137,8 @@ export const schools = [
     Longitude: "18.813739",
     Phone: "38749215260",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Druga osnovna škola",
@@ -8499,7 +9151,8 @@ export const schools = [
     Longitude: "18.8088",
     Phone: "38749212509",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Treća osnovna škola",
@@ -8512,7 +9165,8 @@ export const schools = [
     Longitude: "18.799369",
     Phone: "38749211101",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Četvrta osnovna škola",
@@ -8525,7 +9179,8 @@ export const schools = [
     Longitude: "18.81128",
     Phone: "38749216165",
     Email: "",
-    Url: "http://www.ivosnovna.com/"
+    Url: "http://www.ivosnovna.com/",
+    Owner: ""
   },
   {
     Name: "Peta osnovna škola",
@@ -8538,7 +9193,8 @@ export const schools = [
     Longitude: "18.790843",
     Phone: "38749213312",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Šesta osnovna škola Brezovo Polje",
@@ -8551,7 +9207,8 @@ export const schools = [
     Longitude: "18.955316",
     Phone: "38749382001",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Sedma osnovna škola Gornji Rahić",
@@ -8564,7 +9221,8 @@ export const schools = [
     Longitude: "18.697263",
     Phone: "38749512222",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osma osnovna škola Brka",
@@ -8577,7 +9235,8 @@ export const schools = [
     Longitude: "18.720401",
     Phone: "38749500259",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Deveta osnovna škola Maoča",
@@ -8590,7 +9249,8 @@ export const schools = [
     Longitude: "18.658605",
     Phone: "38749520222",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Deseta osnovna škola Bijela",
@@ -8603,7 +9263,8 @@ export const schools = [
     Longitude: "18.561438",
     Phone: "38749750342",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Jedanaesta osnovna škola Zovik",
@@ -8616,7 +9277,8 @@ export const schools = [
     Longitude: "18.711891",
     Phone: "38749749143",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Dvanaesta osnovna škola Ulice",
@@ -8629,7 +9291,8 @@ export const schools = [
     Longitude: "18.687891",
     Phone: "38749",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Trinaesta osnovna škola Bukvik",
@@ -8642,7 +9305,8 @@ export const schools = [
     Longitude: "18.655547",
     Phone: "38749",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Četrnaesta osnovna škola Krepšić",
@@ -8655,7 +9319,8 @@ export const schools = [
     Longitude: "",
     Phone: "38749",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Osnovna muzička škola",
@@ -8668,7 +9333,8 @@ export const schools = [
     Longitude: "18.81122",
     Phone: "38749212436",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija Vaso Pelagić",
@@ -8681,7 +9347,8 @@ export const schools = [
     Longitude: "18.813117",
     Phone: "38749211941",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Ekonomska škola",
@@ -8694,7 +9361,8 @@ export const schools = [
     Longitude: "18.813127",
     Phone: "38749217812",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Tehnička škola",
@@ -8707,7 +9375,8 @@ export const schools = [
     Longitude: "18.800648",
     Phone: "38749217052",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Poljoprivredna i medicinska škola",
@@ -8720,7 +9389,8 @@ export const schools = [
     Longitude: "18.808589",
     Phone: "38749214803",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Centar za slijepu i slabovidnu djecu i omladinu",
@@ -8733,7 +9403,8 @@ export const schools = [
     Longitude: "18.33680391",
     Phone: "38733473019",
     Email: "",
-    Url: "www.czsd.edu.ba"
+    Url: "www.czsd.edu.ba",
+    Owner: ""
   },
   {
     Name: "Centar za slušnu i govornu rehabilitaciju",
@@ -8746,7 +9417,8 @@ export const schools = [
     Longitude: "18.41510296",
     Phone: "38733440969",
     Email: "",
-    Url: "www.cersig.edu.ba"
+    Url: "www.cersig.edu.ba",
+    Owner: ""
   },
   {
     Name: "Četvrta gimnazija",
@@ -8759,7 +9431,8 @@ export const schools = [
     Longitude: "18.30687046",
     Phone: "38733636704",
     Email: "",
-    Url: "www.cetvrta-gimnazija.edu.ba"
+    Url: "www.cetvrta-gimnazija.edu.ba",
+    Owner: ""
   },
   {
     Name: "Druga gimnazija",
@@ -8772,7 +9445,8 @@ export const schools = [
     Longitude: "18.41288209",
     Phone: "38733667438",
     Email: "",
-    Url: "www.2gimnazija.edu.ba"
+    Url: "www.2gimnazija.edu.ba",
+    Owner: ""
   },
   {
     Name: "Elektrotehnička škola za energetiku",
@@ -8785,7 +9459,8 @@ export const schools = [
     Longitude: "18.39340925",
     Phone: "38733235014",
     Email: "",
-    Url: "www.etssa.edu.ba"
+    Url: "www.etssa.edu.ba",
+    Owner: ""
   },
   {
     Name: "Gazi Husrev-Begova Medresa",
@@ -8798,7 +9473,8 @@ export const schools = [
     Longitude: "18.4294045",
     Phone: "38733534888",
     Email: "",
-    Url: "www.medresasa.edu.ba"
+    Url: "www.medresasa.edu.ba",
+    Owner: ""
   },
   {
     Name: "Gimnazija Dobrinja",
@@ -8811,7 +9487,8 @@ export const schools = [
     Longitude: "18.34347725",
     Phone: "38733464948",
     Email: "",
-    Url: "www.gdobrinja.edu.ba"
+    Url: "www.gdobrinja.edu.ba",
+    Owner: ""
   },
   {
     Name: "Gimnazija Obala",
@@ -8824,7 +9501,8 @@ export const schools = [
     Longitude: "18.41592908",
     Phone: "38733214960",
     Email: "",
-    Url: "www.obala.edu.ba"
+    Url: "www.obala.edu.ba",
+    Owner: ""
   },
   {
     Name: "Gimnazija Richmond Park Collegeš Sarajevo",
@@ -8837,7 +9515,8 @@ export const schools = [
     Longitude: "18.31064701",
     Phone: "38733944115",
     Email: "",
-    Url: "www.sarajevocollege.ba"
+    Url: "www.sarajevocollege.ba",
+    Owner: ""
   },
   {
     Name: "Katolički školski centar - srednja medicinska škola",
@@ -8850,7 +9529,8 @@ export const schools = [
     Longitude: "18.41897607",
     Phone: "38733218295",
     Email: "",
-    Url: "www.ksc-sarajevo.edu.ba"
+    Url: "www.ksc-sarajevo.edu.ba",
+    Owner: ""
   },
   {
     Name: "Katolički školski centar š Opća realna gimnazija",
@@ -8863,7 +9543,8 @@ export const schools = [
     Longitude: "18.42236638",
     Phone: "38733653506",
     Email: "",
-    Url: "www.ksc-sarajevo.edu.ba"
+    Url: "www.ksc-sarajevo.edu.ba",
+    Owner: ""
   },
   {
     Name: "Međunarodna gimnazija 'Richmond Park International Secondary School'",
@@ -8876,7 +9557,8 @@ export const schools = [
     Longitude: "18.31048608",
     Phone: "38733944130",
     Email: "",
-    Url: "www.internationalschool.ba"
+    Url: "www.internationalschool.ba",
+    Owner: ""
   },
   {
     Name: "Perzijsko-Bosanski koledž sa internatom",
@@ -8889,7 +9571,8 @@ export const schools = [
     Longitude: "18.23361397",
     Phone: "38733402204",
     Email: "",
-    Url: "www.pbk.edu.ba"
+    Url: "www.pbk.edu.ba",
+    Owner: ""
   },
   {
     Name: "Peta gimnazija",
@@ -8902,7 +9585,8 @@ export const schools = [
     Longitude: "18.34331632",
     Phone: "38733235521",
     Email: "",
-    Url: "www.peta-gimnazija.edu.ba"
+    Url: "www.peta-gimnazija.edu.ba",
+    Owner: ""
   },
   {
     Name: "Prva bošnjačka gimnazija",
@@ -8915,7 +9599,8 @@ export const schools = [
     Longitude: "18.4230423",
     Phone: "38733461780",
     Email: "",
-    Url: "www.bosnjackagim.edu.ba"
+    Url: "www.bosnjackagim.edu.ba",
+    Owner: ""
   },
   {
     Name: "Prva gimnazija",
@@ -8928,7 +9613,8 @@ export const schools = [
     Longitude: "18.42365384",
     Phone: "38733203567",
     Email: "",
-    Url: "www.prva-gimnazija.edu.ba"
+    Url: "www.prva-gimnazija.edu.ba",
+    Owner: ""
   },
   {
     Name: "Škola za srednje stručno obrazovanje i radno osposobljavanje",
@@ -8941,7 +9627,8 @@ export const schools = [
     Longitude: "18.37733746",
     Phone: "38733655950",
     Email: "",
-    Url: "www.strucnoobraz.edu.ba"
+    Url: "www.strucnoobraz.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja ekonomska škola",
@@ -8954,7 +9641,8 @@ export const schools = [
     Longitude: "18.3922559",
     Phone: "38733250041",
     Email: "",
-    Url: "www.ses.edu.ba"
+    Url: "www.ses.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja elektrotehnička škola",
@@ -8967,7 +9655,8 @@ export const schools = [
     Longitude: "18.36215615",
     Phone: "38733650989",
     Email: "",
-    Url: "www.ets-sa.edu.ba"
+    Url: "www.ets-sa.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja građevinsko geodetska škola",
@@ -8980,7 +9669,8 @@ export const schools = [
     Longitude: "18.402282",
     Phone: "38733214543",
     Email: "",
-    Url: "www.ggs.edu.ba"
+    Url: "www.ggs.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja mašinska tehnička škola",
@@ -8993,7 +9683,8 @@ export const schools = [
     Longitude: "18.40244293",
     Phone: "38733275620",
     Email: "",
-    Url: "www.smts.edu.ba"
+    Url: "www.smts.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja medicinska škola",
@@ -9006,7 +9697,8 @@ export const schools = [
     Longitude: "18.41907263",
     Phone: "38733666185",
     Email: "",
-    Url: "www.sms.edu.ba"
+    Url: "www.sms.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja medicinska škola - Jezero",
@@ -9019,7 +9711,8 @@ export const schools = [
     Longitude: "18.40884805",
     Phone: "38733443987",
     Email: "",
-    Url: "www.ssmstsa.edu.ba"
+    Url: "www.ssmstsa.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja muzička škola",
@@ -9032,7 +9725,8 @@ export const schools = [
     Longitude: "18.42493057",
     Phone: "38733441958",
     Email: "",
-    Url: "www.muzickasa.edu.ba"
+    Url: "www.muzickasa.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja poslovno-komercijalna i trgovačka škola",
@@ -9045,7 +9739,8 @@ export const schools = [
     Longitude: "18.41981292",
     Phone: "38733205942",
     Email: "",
-    Url: "www.sts.edu.ba"
+    Url: "www.sts.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja škola - Gimnazija 'Maarif'",
@@ -9058,7 +9753,8 @@ export const schools = [
     Longitude: "18.34951218",
     Phone: "38762271004",
     Email: "",
-    Url: "www.maarifschools.edu.ba"
+    Url: "www.maarifschools.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja škola metalskih zanimanja",
@@ -9071,7 +9767,8 @@ export const schools = [
     Longitude: "18.40184212",
     Phone: "38733207369",
     Email: "",
-    Url: "www.ssmz.edu.ba"
+    Url: "www.ssmz.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja škola poljoprivrede, prehrane, veterine i uslušnih djelatnosti",
@@ -9084,7 +9781,8 @@ export const schools = [
     Longitude: "18.42408836",
     Phone: "38733262900",
     Email: "",
-    Url: "www.mspvps.edu.ba"
+    Url: "www.mspvps.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja škola primijenjenih umjetnosti",
@@ -9097,7 +9795,8 @@ export const schools = [
     Longitude: "18.42361629",
     Phone: "38733440520",
     Email: "",
-    Url: "www.artschoolsa.edu.ba"
+    Url: "www.artschoolsa.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja škola za okoliš i drvni dizajn",
@@ -9110,7 +9809,8 @@ export const schools = [
     Longitude: "18.39406371",
     Phone: "38733641036",
     Email: "",
-    Url: "www.msdss.edu.ba"
+    Url: "www.msdss.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja škola za saobraćaj i komunikacije",
@@ -9123,7 +9823,8 @@ export const schools = [
     Longitude: "18.39908481",
     Phone: "38733561940",
     Email: "",
-    Url: "www.mssskola.edu.ba"
+    Url: "www.mssskola.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja škola za tekstil, kožu i dizajn",
@@ -9136,7 +9837,8 @@ export const schools = [
     Longitude: "18.43220472",
     Phone: "38733531675",
     Email: "",
-    Url: "www.msts.edu.ba"
+    Url: "www.msts.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja tehnička škola grafičkih tehnologija, dizajna i multimedije",
@@ -9149,7 +9851,8 @@ export const schools = [
     Longitude: "18.30609798",
     Phone: "38733764225",
     Email: "",
-    Url: "www.sgts.edu.ba"
+    Url: "www.sgts.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja ugostiteljsko-turistička škola",
@@ -9162,7 +9865,8 @@ export const schools = [
     Longitude: "18.43357265",
     Phone: "38733534633",
     Email: "",
-    Url: "www.msuts-sa.edu.ba"
+    Url: "www.msuts-sa.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja zubotehnička škola",
@@ -9175,7 +9879,8 @@ export const schools = [
     Longitude: "18.41426611",
     Phone: "38733262180",
     Email: "",
-    Url: "www.szs.edu.ba"
+    Url: "www.szs.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar 'Nedžad Ibrišimović'",
@@ -9188,7 +9893,8 @@ export const schools = [
     Longitude: "18.2667017",
     Phone: "38733400815",
     Email: "",
-    Url: "www.mssilijas.edu.ba"
+    Url: "www.mssilijas.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Hadžići",
@@ -9201,7 +9907,8 @@ export const schools = [
     Longitude: "18.19843411",
     Phone: "38733420337",
     Email: "",
-    Url: "www.sscha.edu.ba"
+    Url: "www.sscha.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Vogošća",
@@ -9214,7 +9921,8 @@ export const schools = [
     Longitude: "18.34178209",
     Phone: "38733432638",
     Email: "",
-    Url: "www.mssvogosca.edu.ba"
+    Url: "www.mssvogosca.edu.ba",
+    Owner: ""
   },
   {
     Name: "Treća gimnazija",
@@ -9227,7 +9935,8 @@ export const schools = [
     Longitude: "18.39055538",
     Phone: "38733279250",
     Email: "",
-    Url: "www.treca-gimnazija.edu.ba"
+    Url: "www.treca-gimnazija.edu.ba",
+    Owner: ""
   },
   {
     Name: "Željeznički školski centar",
@@ -9240,7 +9949,8 @@ export const schools = [
     Longitude: "18.38516951",
     Phone: "38733722940",
     Email: "",
-    Url: "www.zsc.edu.ba"
+    Url: "www.zsc.edu.ba",
+    Owner: ""
   },
   {
     Name: "Prva gimnazija u Zenici",
@@ -9253,7 +9963,8 @@ export const schools = [
     Longitude: "17.907655",
     Phone: "38732402626",
     Email: "gim_zedo@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Druga gimnazija u Zenici",
@@ -9266,7 +9977,8 @@ export const schools = [
     Longitude: "17.908905",
     Phone: "38732405431",
     Email: "drugagimn.zenica@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Opća gimnazija u sastavu Katoličkog školskog centra 'Sveti Pavao'",
@@ -9279,7 +9991,8 @@ export const schools = [
     Longitude: "17.905186",
     Phone: "38732449106",
     Email: "ksc.ze.gimn@gmail.com",
-    Url: "www.ksc-zenica.edu.ba"
+    Url: "www.ksc-zenica.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja muzička škola u Zenici",
@@ -9292,7 +10005,8 @@ export const schools = [
     Longitude: "17.905251",
     Phone: "38732240814",
     Email: "srednjamuzicka@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Ekonomska škola",
@@ -9305,7 +10019,8 @@ export const schools = [
     Longitude: "17.908967",
     Phone: "38732404255",
     Email: "ekonomze@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Medicinska škola",
@@ -9318,7 +10033,8 @@ export const schools = [
     Longitude: "17.924213",
     Phone: "38732443070",
     Email: "med.skola.ze@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Tehnička škola",
@@ -9331,7 +10047,8 @@ export const schools = [
     Longitude: "17.922194",
     Phone: "38732200260",
     Email: "tscze@bih.net.ba",
-    Url: "https://tscze.ba/"
+    Url: "https://tscze.ba/",
+    Owner: ""
   },
   {
     Name: "Stručna zanatska škola",
@@ -9344,7 +10061,8 @@ export const schools = [
     Longitude: "17.922194",
     Phone: "38732401423",
     Email: "szskola@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Stručna industrijska škola",
@@ -9357,7 +10075,8 @@ export const schools = [
     Longitude: "17.909151",
     Phone: "38732202040",
     Email: "indsko@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -9370,7 +10089,8 @@ export const schools = [
     Longitude: "17.907214",
     Phone: "38732404601",
     Email: "pprehrambena@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Specijalna srednja škola",
@@ -9383,7 +10103,8 @@ export const schools = [
     Longitude: "",
     Phone: "38732243615",
     Email: "spsrskze@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija 'Muhsin Rizvić'",
@@ -9396,7 +10117,8 @@ export const schools = [
     Longitude: "18.265806",
     Phone: "38732784596",
     Email: "gimn.breza@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola 'Mehmedalija Mak Dizdar'",
@@ -9409,7 +10131,8 @@ export const schools = [
     Longitude: "18.265806",
     Phone: "38732784595",
     Email: "mssbreza@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija 'Muhsin Rizvić'",
@@ -9422,7 +10145,8 @@ export const schools = [
     Longitude: "18.116725",
     Phone: "38732556890",
     Email: "gimnazijakakanj@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja tehnička škola 'Kemal Kapetanović'",
@@ -9435,7 +10159,8 @@ export const schools = [
     Longitude: "18.116878",
     Phone: "38732552552",
     Email: "stskemkap1@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja stručna škola",
@@ -9448,7 +10173,8 @@ export const schools = [
     Longitude: "18.117169",
     Phone: "38732556960",
     Email: "ssskakanj@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija 'Edhem Mulabdić'",
@@ -9461,7 +10187,8 @@ export const schools = [
     Longitude: "18.10054",
     Phone: "38732603221",
     Email: "gimnazija.maglaj@ogmaglaj.edu.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -9474,7 +10201,8 @@ export const schools = [
     Longitude: "18.100908",
     Phone: "38732603884",
     Email: "mss_maglaj@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola 'Musa Ćazim Ćatić'",
@@ -9487,7 +10215,8 @@ export const schools = [
     Longitude: "18.581489",
     Phone: "38732825372",
     Email: "mssolovo@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija 'Musa Ćazim Ćatić'",
@@ -9500,7 +10229,8 @@ export const schools = [
     Longitude: "17.978618",
     Phone: "38732650083",
     Email: "gimna@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja tehnička škola",
@@ -9513,7 +10243,8 @@ export const schools = [
     Longitude: "17.978674",
     Phone: "38732650669",
     Email: "stsmedi@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -9526,7 +10257,8 @@ export const schools = [
     Longitude: "17.978841",
     Phone: "38732650812",
     Email: "sss32@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola Stjepana Radića u Sivši",
@@ -9539,7 +10271,8 @@ export const schools = [
     Longitude: "18.00851",
     Phone: "38732893722",
     Email: "ss.stjepana_radica@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola 'NORDBAT-2'",
@@ -9552,7 +10285,8 @@ export const schools = [
     Longitude: "18.328448",
     Phone: "38732843002",
     Email: "nordbat@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija 'Visoko'",
@@ -9565,7 +10299,8 @@ export const schools = [
     Longitude: "18.181407",
     Phone: "38732735501",
     Email: "ki_selma@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola 'Hazim šabanović'",
@@ -9578,7 +10313,8 @@ export const schools = [
     Longitude: "18.175698",
     Phone: "38732738165",
     Email: "mss.hazimsabanovic@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Medresa 'Osman-ef. Redžović'",
@@ -9591,7 +10327,8 @@ export const schools = [
     Longitude: "18.201885",
     Phone: "38732745771",
     Email: "info@medresa.org",
-    Url: "https://www.medresa.ba/"
+    Url: "https://www.medresa.ba/",
+    Owner: ""
   },
   {
     Name: "Gimnazija 'Rizah Odžečkić'",
@@ -9604,7 +10341,8 @@ export const schools = [
     Longitude: "18.141073",
     Phone: "38732866678",
     Email: "gimzav@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja tehnička škola",
@@ -9617,7 +10355,8 @@ export const schools = [
     Longitude: "18.144347",
     Phone: "38732879002",
     Email: "stszav@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja stručna škola",
@@ -9630,7 +10369,8 @@ export const schools = [
     Longitude: "18.117292",
     Phone: "38732877773",
     Email: "skolastrucna@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija Bihać",
@@ -9643,7 +10383,8 @@ export const schools = [
     Longitude: "15.87751",
     Phone: "38737312915",
     Email: "",
-    Url: "www.gimnazijabihac.edu.ba"
+    Url: "www.gimnazijabihac.edu.ba",
+    Owner: ""
   },
   {
     Name: "Medicinska škola",
@@ -9656,7 +10397,8 @@ export const schools = [
     Longitude: "15.876265",
     Phone: "38737319073",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -9669,7 +10411,8 @@ export const schools = [
     Longitude: "15.877217",
     Phone: "38737311075",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mašinsko - saobraćajna srednja škola",
@@ -9682,7 +10425,8 @@ export const schools = [
     Longitude: "15.863273",
     Phone: "38737226166",
     Email: "",
-    Url: "www.etsbi.edu.ba"
+    Url: "www.etsbi.edu.ba",
+    Owner: ""
   },
   {
     Name: "Mješovita elektrotehnička i drvoprerađivačka srednja škola",
@@ -9695,7 +10439,8 @@ export const schools = [
     Longitude: "15.863273",
     Phone: "38737110181",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Umjetnička škola",
@@ -9708,7 +10453,8 @@ export const schools = [
     Longitude: "15.868299",
     Phone: "38737311045",
     Email: "",
-    Url: "www.umjetnicka-bihac.com"
+    Url: "www.umjetnicka-bihac.com",
+    Owner: ""
   },
   {
     Name: "Katolički školski centar 'IvanPavao II'",
@@ -9721,7 +10467,8 @@ export const schools = [
     Longitude: "15.85034",
     Phone: "38737223874",
     Email: "",
-    Url: "ksc-bihac.net"
+    Url: "ksc-bihac.net",
+    Owner: ""
   },
   {
     Name: "Tursko-bosanski Unsko-sanski koledž",
@@ -9734,7 +10481,8 @@ export const schools = [
     Longitude: "15.87719",
     Phone: "38737312903",
     Email: "",
-    Url: "www.unasanacollege.edu.ba"
+    Url: "www.unasanacollege.edu.ba",
+    Owner: ""
   },
   {
     Name: "Gimnazija",
@@ -9747,7 +10495,8 @@ export const schools = [
     Longitude: "16.1559",
     Phone: "38737471057",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola 'Safet Krupić'",
@@ -9760,7 +10509,8 @@ export const schools = [
     Longitude: "16.155649",
     Phone: "38737471077",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -9773,7 +10523,8 @@ export const schools = [
     Longitude: "16.368456",
     Phone: "38737883347",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -9786,7 +10537,8 @@ export const schools = [
     Longitude: "16.018902",
     Phone: "38737410115",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija",
@@ -9799,7 +10551,8 @@ export const schools = [
     Longitude: "15.914822",
     Phone: "38737514072",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "I srednja škola",
@@ -9812,7 +10565,8 @@ export const schools = [
     Longitude: "15.929787",
     Phone: "38737514436",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "II srednja škola",
@@ -9825,7 +10579,8 @@ export const schools = [
     Longitude: "15.929787",
     Phone: "38737514036",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Medresa 'Džemaludin Čaušević'",
@@ -9838,7 +10593,8 @@ export const schools = [
     Longitude: "15.932772",
     Phone: "38737514893",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -9851,7 +10607,8 @@ export const schools = [
     Longitude: "16.776156",
     Phone: "38737661038",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija",
@@ -9864,7 +10621,8 @@ export const schools = [
     Longitude: "16.657781",
     Phone: "38737686039",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -9877,7 +10635,8 @@ export const schools = [
     Longitude: "16.657763",
     Phone: "38737686426",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja poljoprivredna škola 'Sanus futurum'",
@@ -9890,7 +10649,8 @@ export const schools = [
     Longitude: "16.661157",
     Phone: "38737684210",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija",
@@ -9903,7 +10663,8 @@ export const schools = [
     Longitude: "15.803117",
     Phone: "38737770896",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "I srednja škola 'Dr.Husein Džanić'",
@@ -9916,7 +10677,8 @@ export const schools = [
     Longitude: "15.803029",
     Phone: "38737770043",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "II srednja škola",
@@ -9929,7 +10691,8 @@ export const schools = [
     Longitude: "15.803029",
     Phone: "38737772876",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Pero Zečević'",
@@ -9942,7 +10705,8 @@ export const schools = [
     Longitude: "18.324339",
     Phone: "38731761866",
     Email: "office@sskola-odzak.edu.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Fra Martin Nedić'",
@@ -9955,7 +10719,8 @@ export const schools = [
     Longitude: "18.690663",
     Phone: "38731710100",
     Email: "",
-    Url: "www.skor.tel.net.ba"
+    Url: "www.skor.tel.net.ba",
+    Owner: ""
   },
   {
     Name: "Gimnazija 'Meša Selimović'",
@@ -9968,7 +10733,8 @@ export const schools = [
     Longitude: "18.685335",
     Phone: "38735247620",
     Email: "gmstz@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija 'Ismet Mujezinović'",
@@ -9981,7 +10747,8 @@ export const schools = [
     Longitude: "18.668198",
     Phone: "38735252006",
     Email: "gimim@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Katolički školski centar 'Sveti Franjo' Opća gimnazija",
@@ -9994,7 +10761,8 @@ export const schools = [
     Longitude: "18.680781",
     Phone: "38735300800",
     Email: "",
-    Url: "www.ksc-tuzla.edu.ba"
+    Url: "www.ksc-tuzla.edu.ba",
+    Owner: ""
   },
   {
     Name: "Srednja ekonomska škola",
@@ -10007,7 +10775,8 @@ export const schools = [
     Longitude: "18.66788",
     Phone: "38735271007",
     Email: "info@ekonomskaskola.com",
-    Url: "www.ekonomskaskola.com"
+    Url: "www.ekonomskaskola.com",
+    Owner: ""
   },
   {
     Name: "Srednja medicinska škola",
@@ -10020,7 +10789,8 @@ export const schools = [
     Longitude: "18.670964",
     Phone: "38735252040",
     Email: "medicinska.tuzla@montk.gov.ba",
-    Url: "https://smstz.edu.ba/"
+    Url: "https://smstz.edu.ba/",
+    Owner: ""
   },
   {
     Name: "Srednja muzička škola",
@@ -10033,7 +10803,8 @@ export const schools = [
     Longitude: "18.683582",
     Phone: "38735262531",
     Email: "Sms_tuzla@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja trgovinska škola",
@@ -10046,7 +10817,8 @@ export const schools = [
     Longitude: "18.667279",
     Phone: "38735252405",
     Email: "trg.skola@bih.net.ba",
-    Url: "www.trgskola.com.ba"
+    Url: "www.trgskola.com.ba",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja elektrotehnička škola",
@@ -10059,7 +10831,8 @@ export const schools = [
     Longitude: "18.664618",
     Phone: "38735282009",
     Email: "Ets.tz@bih.net.ba",
-    Url: "www.etstuzla.edu.ba"
+    Url: "www.etstuzla.edu.ba",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja građevinsko-geodetska škola",
@@ -10072,7 +10845,8 @@ export const schools = [
     Longitude: "18.663197",
     Phone: "38735228513",
     Email: "gradskola@bih.net.ba",
-    Url: "www.gradjevinskogeodetska.com.ba"
+    Url: "www.gradjevinskogeodetska.com.ba",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja hemijska škola",
@@ -10085,7 +10859,8 @@ export const schools = [
     Longitude: "18.662826",
     Phone: "38735281092",
     Email: "hemijska.skola@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja mašinska škola",
@@ -10098,7 +10873,8 @@ export const schools = [
     Longitude: "18.666981",
     Phone: "38735315800",
     Email: "masinska.skola.tz@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja rudarska škola",
@@ -10111,7 +10887,8 @@ export const schools = [
     Longitude: "18.662772",
     Phone: "38735228514",
     Email: "msrudskola@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja saobraćajna škola",
@@ -10124,7 +10901,8 @@ export const schools = [
     Longitude: "18.66696",
     Phone: "38735315390",
     Email: "jumsss@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -10137,7 +10915,8 @@ export const schools = [
     Longitude: "18.662769",
     Phone: "38735282548",
     Email: "jumsstuzla@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Turističko-ugostiteljska škola",
@@ -10150,7 +10929,8 @@ export const schools = [
     Longitude: "18.667904",
     Phone: "38735247900",
     Email: "tru.ugostiteljska@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Behram-begova medresa",
@@ -10163,7 +10943,8 @@ export const schools = [
     Longitude: "18.654141",
     Phone: "38735281151",
     Email: "info@medresatz.edu.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija",
@@ -10176,7 +10957,8 @@ export const schools = [
     Longitude: "18.652593",
     Phone: "38735772612",
     Email: "gimnaz.zivinice@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -10189,7 +10971,8 @@ export const schools = [
     Longitude: "18.652005",
     Phone: "38735772611",
     Email: "msszivinice@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -10202,7 +10985,8 @@ export const schools = [
     Longitude: "18.533004",
     Phone: "38735876739",
     Email: "ju.mss@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -10215,7 +10999,8 @@ export const schools = [
     Longitude: "18.821304",
     Phone: "38735668010",
     Email: "mss.celic@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -10228,7 +11013,8 @@ export const schools = [
     Longitude: "18.207706",
     Phone: "38735723460",
     Email: "mjesovita.skola@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija 'Dr. Mustafa Kamarić'",
@@ -10241,7 +11027,8 @@ export const schools = [
     Longitude: "18.308873",
     Phone: "38735786899",
     Email: "gimmko@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -10254,7 +11041,8 @@ export const schools = [
     Longitude: "18.308697",
     Phone: "38735700311",
     Email: "mssgracanica@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija 'Mustafa Novalić'",
@@ -10267,7 +11055,8 @@ export const schools = [
     Longitude: "18.417633",
     Phone: "38735821150",
     Email: "gimngrad@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola 'Hasan Kikić'",
@@ -10280,7 +11069,8 @@ export const schools = [
     Longitude: "18.418444",
     Phone: "38735631043",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -10293,7 +11083,8 @@ export const schools = [
     Longitude: "18.876478",
     Phone: "38735631043",
     Email: "ju.mss.k@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola 'Musa Ćazim Ćatić'",
@@ -10306,7 +11097,8 @@ export const schools = [
     Longitude: "18.700316",
     Phone: "38735621215",
     Email: "jumss.k@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija 'Gimnazija Lukavac'",
@@ -10319,7 +11111,8 @@ export const schools = [
     Longitude: "18.530178",
     Phone: "38735550540",
     Email: "gimn.lu@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja elektro-mašinska škola",
@@ -10332,7 +11125,8 @@ export const schools = [
     Longitude: "18.529445",
     Phone: "38735553377",
     Email: "ems.lukavac@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja ekonomsko-hemijska",
@@ -10345,7 +11139,8 @@ export const schools = [
     Longitude: "18.530596",
     Phone: "38735550250",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -10358,7 +11153,8 @@ export const schools = [
     Longitude: "19.00175",
     Phone: "38735597067",
     Email: "sapnass@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -10371,7 +11167,8 @@ export const schools = [
     Longitude: "18.489536",
     Phone: "38735645679",
     Email: "jumss@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -10384,7 +11181,8 @@ export const schools = [
     Longitude: "18.980836",
     Phone: "38735755561",
     Email: "mssteocak@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola 'Enver Pozderović'",
@@ -10397,7 +11195,8 @@ export const schools = [
     Longitude: "18.973679",
     Phone: "38738221020",
     Email: "mssep@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja tehnička škola 'Hasib Hadžović'",
@@ -10410,7 +11209,8 @@ export const schools = [
     Longitude: "18.975551",
     Phone: "38738221137",
     Email: "justsgo@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja stručna škola 'džemal Bijedić'",
@@ -10423,7 +11223,8 @@ export const schools = [
     Longitude: "18.978689",
     Phone: "38738221214",
     Email: "nicka_f@hotmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija",
@@ -10436,7 +11237,8 @@ export const schools = [
     Longitude: "17.447838",
     Phone: "38730260112",
     Email: "bug.gim@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja stručna škola",
@@ -10449,7 +11251,8 @@ export const schools = [
     Longitude: "17.437698",
     Phone: "38730252207",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja tehnička škola",
@@ -10462,7 +11265,8 @@ export const schools = [
     Longitude: "17.438525",
     Phone: "38730251915",
     Email: "tehskolabu@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola 'Busovača'",
@@ -10475,7 +11279,8 @@ export const schools = [
     Longitude: "17.879049",
     Phone: "38730593155",
     Email: "mail@mssbusovaca.com.ba",
-    Url: "https://mssbusovaca.com.ba/"
+    Url: "https://mssbusovaca.com.ba/",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Busovača'",
@@ -10488,7 +11293,8 @@ export const schools = [
     Longitude: "17.879049",
     Phone: "38730732042",
     Email: "ssbusovaca@gmail.com",
-    Url: "https://www.ss-busovaca.com/"
+    Url: "https://www.ss-busovaca.com/",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -10501,7 +11307,8 @@ export const schools = [
     Longitude: "17.401169",
     Phone: "38730205355",
     Email: "mssdvakuf@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja mješovita škola 'Zijah Dizdarević'",
@@ -10514,7 +11321,8 @@ export const schools = [
     Longitude: "17.90254",
     Phone: "38730831821",
     Email: "smszijahdizdarevic@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola 'Gornji Vakuf'",
@@ -10527,7 +11335,8 @@ export const schools = [
     Longitude: "17.581508",
     Phone: "38730266255",
     Email: "vahid.sehic@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola 'Uskoplje'",
@@ -10540,7 +11349,8 @@ export const schools = [
     Longitude: "17.581116",
     Phone: "38730494039",
     Email: "sskola.uskoplje@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja strukovna škola 'Jajce'",
@@ -10553,7 +11363,8 @@ export const schools = [
     Longitude: "17.253766",
     Phone: "38730654043",
     Email: "ss-skola-jajce@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Nikola Šop'",
@@ -10566,7 +11377,8 @@ export const schools = [
     Longitude: "17.275563",
     Phone: "38730654174",
     Email: "gimnazija.nikola.sop@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Ivan Goran Kovačić'",
@@ -10579,7 +11391,8 @@ export const schools = [
     Longitude: "18.079831",
     Phone: "38730879002",
     Email: "srednja_skola_kis@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja strukovna škola 'Fojnica'",
@@ -10592,7 +11405,8 @@ export const schools = [
     Longitude: "17.90254",
     Phone: "38730879113",
     Email: "srednjaskolafoj@yahoo.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Kreševo'",
@@ -10605,7 +11419,8 @@ export const schools = [
     Longitude: "18.057744",
     Phone: "38730800202",
     Email: "ss.kresevo@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja glazbena škola Jakova Gotovca",
@@ -10618,7 +11433,8 @@ export const schools = [
     Longitude: "17.655827",
     Phone: "38730792286",
     Email: "sr.gl.sk.jakova.gotovca@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola '308. slavna brigada'",
@@ -10631,7 +11447,8 @@ export const schools = [
     Longitude: "17.649008",
     Phone: "38730525407",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Novi Travnik'",
@@ -10644,7 +11461,8 @@ export const schools = [
     Longitude: "17.655827",
     Phone: "38730793504",
     Email: "ss-novi.travnik@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja tehnička škola",
@@ -10657,7 +11475,8 @@ export const schools = [
     Longitude: "17.656774",
     Phone: "38730511618",
     Email: "psecurity@msts-travnik.net",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja ekonomsko-ugostiteljska škola",
@@ -10670,7 +11489,8 @@ export const schools = [
     Longitude: "17.658843",
     Phone: "38730511076",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola \"Travnik\"",
@@ -10683,7 +11503,8 @@ export const schools = [
     Longitude: "17.662377",
     Phone: "38730511059",
     Email: "srednjatr@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Katolički školski centar 'Petar Barbarić' - Gimnazija",
@@ -10696,7 +11517,8 @@ export const schools = [
     Longitude: "17.661558",
     Phone: "38730518823",
     Email: "šksctr@bih.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "JU Srednja škola",
@@ -10709,7 +11531,8 @@ export const schools = [
     Longitude: "17.737568",
     Phone: "38730707486",
     Email: "ss.travnik@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Elči Ibrahim-pašina medresa",
@@ -10722,7 +11545,8 @@ export const schools = [
     Longitude: "17.673723",
     Phone: "38730512023",
     Email: "medresa@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola",
@@ -10735,7 +11559,8 @@ export const schools = [
     Longitude: "17.789063",
     Phone: "38730717540",
     Email: "mss.vitez.kruscica@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola",
@@ -10748,7 +11573,8 @@ export const schools = [
     Longitude: "17.789063",
     Phone: "38730711336",
     Email: "ss.vitez@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija Mostar",
@@ -10761,7 +11587,8 @@ export const schools = [
     Longitude: "17.807231",
     Phone: "38736315216",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija fra Grge Martića",
@@ -10774,7 +11601,8 @@ export const schools = [
     Longitude: "17.798974",
     Phone: "38736326994",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja ekonomska škola Joze Martinovića",
@@ -10787,7 +11615,8 @@ export const schools = [
     Longitude: "17.800285",
     Phone: "38736310846",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Druga gimnazija Mostar",
@@ -10800,7 +11629,8 @@ export const schools = [
     Longitude: "17.806351",
     Phone: "38736551615",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja medicinska škola",
@@ -10813,7 +11643,8 @@ export const schools = [
     Longitude: "17.806172",
     Phone: "38736576851",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Ekonomska i ugostiteljsko-turistička škola",
@@ -10826,7 +11657,8 @@ export const schools = [
     Longitude: "17.817382",
     Phone: "38736576766",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mašinsko-saobraćajna škola",
@@ -10839,7 +11671,8 @@ export const schools = [
     Longitude: "17.808352",
     Phone: "38736566290",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja građevinska škola",
@@ -10852,7 +11685,8 @@ export const schools = [
     Longitude: "17.817463",
     Phone: "38736551456",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja elektrotehnička škola",
@@ -10865,7 +11699,8 @@ export const schools = [
     Longitude: "17.809394",
     Phone: "38736580126",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja tekstilna i poljoprivredna škola",
@@ -10878,7 +11713,8 @@ export const schools = [
     Longitude: "17.806172",
     Phone: "38736570034",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Muzička škola I u II stupnja",
@@ -10891,7 +11727,8 @@ export const schools = [
     Longitude: "17.817574",
     Phone: "38736551462",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Karađozbegova medresa",
@@ -10904,7 +11741,8 @@ export const schools = [
     Longitude: "17.814241",
     Phone: "38736550921",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja građevinska škola Jurja Dalmatinca",
@@ -10917,7 +11755,8 @@ export const schools = [
     Longitude: "17.799956",
     Phone: "38736318527",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja turističko-ugostiteljska škola",
@@ -10930,7 +11769,8 @@ export const schools = [
     Longitude: "17.803151",
     Phone: "38736320107",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja medicinska škola Sestara milosrdnica",
@@ -10943,7 +11783,8 @@ export const schools = [
     Longitude: "17.807079",
     Phone: "38736332971",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja elektrotehnička škola Ruđera Boškovića",
@@ -10956,7 +11797,8 @@ export const schools = [
     Longitude: "17.800273",
     Phone: "38736318525",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja strojarska škola Fausta Vrančića",
@@ -10969,7 +11811,8 @@ export const schools = [
     Longitude: "17.799887",
     Phone: "38736318526",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola likovnih umjetnosti Gabrijela Jurkića",
@@ -10982,7 +11825,8 @@ export const schools = [
     Longitude: "17.792052",
     Phone: "38736322571",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja glazbena škola Ivana PL. Zajca",
@@ -10995,7 +11839,8 @@ export const schools = [
     Longitude: "17.802279",
     Phone: "38736320127",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "IPG Internacionalna privatna gimnazija s pravom javnosti",
@@ -11008,7 +11853,8 @@ export const schools = [
     Longitude: "17.792451",
     Phone: "38736327808",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola Prozor",
@@ -11021,7 +11867,8 @@ export const schools = [
     Longitude: "17.606807",
     Phone: "38736771214",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola Čapljina i Podružni odjel Neum",
@@ -11034,7 +11881,8 @@ export const schools = [
     Longitude: "17.70234",
     Phone: "38736801506",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola dr.fra Slavka Barbarića",
@@ -11047,7 +11895,8 @@ export const schools = [
     Longitude: "17.697673",
     Phone: "38736642357",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola Stolac",
@@ -11060,7 +11909,8 @@ export const schools = [
     Longitude: "17.960258",
     Phone: "38736853404",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola Konjic",
@@ -11073,7 +11923,8 @@ export const schools = [
     Longitude: "17.963036",
     Phone: "38736727321",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola Jablanica",
@@ -11086,7 +11937,8 @@ export const schools = [
     Longitude: "17.758091",
     Phone: "38736752833",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija Ljubuški",
@@ -11099,7 +11951,8 @@ export const schools = [
     Longitude: "17.538628",
     Phone: "38739830068",
     Email: "gimnazija.lj@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja strukovna škola Ruđera Boškovića",
@@ -11112,7 +11965,8 @@ export const schools = [
     Longitude: "17.53806",
     Phone: "38739831921",
     Email: "ss.skola-rudjer.boskovic@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola Antuna Branka Šimića Grude",
@@ -11125,7 +11979,8 @@ export const schools = [
     Longitude: "17.415857",
     Phone: "38739662230",
     Email: "ravnatelj@ssgrude.net",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija fra Grge Martića",
@@ -11138,7 +11993,8 @@ export const schools = [
     Longitude: "17.329458",
     Phone: "38739682458",
     Email: "ss.fra.grge.martica.posusje@wic.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja strukovna škola",
@@ -11151,7 +12007,8 @@ export const schools = [
     Longitude: "17.329458",
     Phone: "38739682458",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija fra Dominika Mandića",
@@ -11164,7 +12021,8 @@ export const schools = [
     Longitude: "17.590003",
     Phone: "38739704393",
     Email: "direktor@gimnazija-sb.edu.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Glazbena škola",
@@ -11177,7 +12035,8 @@ export const schools = [
     Longitude: "17.594579",
     Phone: "38739707632",
     Email: "silvana.zadro@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja strukovna škola",
@@ -11190,7 +12049,8 @@ export const schools = [
     Longitude: "17.590003",
     Phone: "38739704393",
     Email: "strukovna.skola.sb@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija Livno",
@@ -11203,7 +12063,8 @@ export const schools = [
     Longitude: "17.006507",
     Phone: "38734202041",
     Email: "luka.novokmet@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja ekonomska škola",
@@ -11216,7 +12077,8 @@ export const schools = [
     Longitude: "17.00135",
     Phone: "38734202015",
     Email: "sskola-ekonomska.livno@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja strukovna škola Silvija Strahimira Kranjčevića",
@@ -11229,7 +12091,8 @@ export const schools = [
     Longitude: "17.006849",
     Phone: "38734201580",
     Email: "strukovna.skola.livno@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija Marka Marulića",
@@ -11242,7 +12105,8 @@ export const schools = [
     Longitude: "17.221406",
     Phone: "38734352507",
     Email: "gimnazija.tg@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja strukovna škola",
@@ -11255,7 +12119,8 @@ export const schools = [
     Longitude: "17.224017",
     Phone: "38734352312",
     Email: "sss.tg@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Kupres'",
@@ -11268,7 +12133,8 @@ export const schools = [
     Longitude: "17.277964",
     Phone: "38734274100",
     Email: "sskola-kupres@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Drvar'",
@@ -11281,7 +12147,8 @@ export const schools = [
     Longitude: "16.386804",
     Phone: "38734819013",
     Email: "srednjaskola.drvar@gmail.com",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 'Tin Ujević'",
@@ -11294,7 +12161,8 @@ export const schools = [
     Longitude: "16.85302",
     Phone: "38734273023",
     Email: "ss.tin.ujevic.glamoc@tel.net.ba",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija Banja Luka",
@@ -11307,7 +12175,8 @@ export const schools = [
     Longitude: "17.183513",
     Phone: "38734",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Građevinska škola",
@@ -11320,7 +12189,8 @@ export const schools = [
     Longitude: "17.19859",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Ekonomska škola",
@@ -11333,7 +12203,8 @@ export const schools = [
     Longitude: "17.196023",
     Phone: "",
     Email: "",
-    Url: "ekonomskaskolabl.org"
+    Url: "ekonomskaskolabl.org",
+    Owner: ""
   },
   {
     Name: "Elektrotehnička škola Nikola Tesla",
@@ -11346,7 +12217,8 @@ export const schools = [
     Longitude: "17.195134",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Medicinska škola Banja Luka",
@@ -11359,7 +12231,8 @@ export const schools = [
     Longitude: "17.176875",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Poljoprivredna škola",
@@ -11372,7 +12245,8 @@ export const schools = [
     Longitude: "17.205369",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Tehnička škola",
@@ -11385,7 +12259,8 @@ export const schools = [
     Longitude: "17.193059",
     Phone: "38751348212",
     Email: "ss07@skolers.org",
-    Url: "https://www.tehnickaskolabl.com/"
+    Url: "https://www.tehnickaskolabl.com/",
+    Owner: ""
   },
   {
     Name: "Tehnološka škola",
@@ -11398,7 +12273,8 @@ export const schools = [
     Longitude: "17.21069",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Ugostiteljsko-trgovinsko-turistička škola",
@@ -11411,7 +12287,8 @@ export const schools = [
     Longitude: "17.197611",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Škola učenika u privredi",
@@ -11424,7 +12301,8 @@ export const schools = [
     Longitude: "17.195875",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Muzička škola Vlado Milošević",
@@ -11437,7 +12315,8 @@ export const schools = [
     Longitude: "17.186416",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Centar za OIV i rehabilitaciju",
@@ -11450,7 +12329,8 @@ export const schools = [
     Longitude: "17.179747",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Centar šZaštiti me",
@@ -11463,7 +12343,8 @@ export const schools = [
     Longitude: "17.174555",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja poslovna škola",
@@ -11476,7 +12357,8 @@ export const schools = [
     Longitude: "17.201516",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar šGemit-Apeiron",
@@ -11489,7 +12371,8 @@ export const schools = [
     Longitude: "17.185015",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Katolički školski centar Blašeni Ivan Merc",
@@ -11502,7 +12385,8 @@ export const schools = [
     Longitude: "17.194617",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija Filip Višnjić",
@@ -11515,7 +12399,8 @@ export const schools = [
     Longitude: "19.226119",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Ekonomska škola",
@@ -11528,7 +12413,8 @@ export const schools = [
     Longitude: "19.226289",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Poljoprivredna i medicinska škola",
@@ -11541,7 +12427,8 @@ export const schools = [
     Longitude: "19.222666",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Tehnička škola Mihajlo Pupin",
@@ -11554,7 +12441,8 @@ export const schools = [
     Longitude: "19.226085",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Muzička škola Stevan Stojanović Mokranjac",
@@ -11567,7 +12455,8 @@ export const schools = [
     Longitude: "19.218917",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja stručna škola",
@@ -11580,7 +12469,8 @@ export const schools = [
     Longitude: "19.220728",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Golub Kureš",
@@ -11593,7 +12483,8 @@ export const schools = [
     Longitude: "18.430506",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Bratunac",
@@ -11606,7 +12497,8 @@ export const schools = [
     Longitude: "18.430506",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola Nikola Tesla",
@@ -11619,7 +12511,8 @@ export const schools = [
     Longitude: "18.011428",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola šIvo Andrić",
@@ -11632,7 +12525,8 @@ export const schools = [
     Longitude: "19.292398",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Milorad Vlačić",
@@ -11645,7 +12539,8 @@ export const schools = [
     Longitude: "18.944384",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Nikola Tesla",
@@ -11658,7 +12553,8 @@ export const schools = [
     Longitude: "18.278404",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Pero Slijepčević",
@@ -11671,7 +12567,8 @@ export const schools = [
     Longitude: "18.530822",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija",
@@ -11684,7 +12581,8 @@ export const schools = [
     Longitude: "17.255141",
     Phone: "",
     Email: "",
-    Url: "gimnazija.gradiska.com"
+    Url: "gimnazija.gradiska.com",
+    Owner: ""
   },
   {
     Name: "Tehnička škola",
@@ -11697,7 +12595,8 @@ export const schools = [
     Longitude: "17.25587",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja stručna škola",
@@ -11710,7 +12609,8 @@ export const schools = [
     Longitude: "17.25605",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija sa tehničkim školama",
@@ -11723,7 +12623,8 @@ export const schools = [
     Longitude: "17.90177",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Stručna škola za radnička zanimanja",
@@ -11736,7 +12637,8 @@ export const schools = [
     Longitude: "17.902067",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Zavod za slijepe i slabovidne Budućnost",
@@ -11749,7 +12651,8 @@ export const schools = [
     Longitude: "17.907826",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija",
@@ -11762,7 +12665,8 @@ export const schools = [
     Longitude: "18.082035",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Ekonomska i trgovinska škola",
@@ -11775,7 +12679,8 @@ export const schools = [
     Longitude: "18.080852",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Medicinska škola",
@@ -11788,7 +12693,8 @@ export const schools = [
     Longitude: "18.091077",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Tehnička škola",
@@ -11801,7 +12707,8 @@ export const schools = [
     Longitude: "18.080869",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Saobraćajna i elektro-škola",
@@ -11814,7 +12721,8 @@ export const schools = [
     Longitude: "18.080869",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Upravna, ugostiteljska i škola učenika u privredi",
@@ -11827,7 +12735,8 @@ export const schools = [
     Longitude: "18.080869",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija i srednja stručna škola Petar Kočić",
@@ -11840,7 +12749,8 @@ export const schools = [
     Longitude: "19.103486",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Tehnički školski centar",
@@ -11853,7 +12763,8 @@ export const schools = [
     Longitude: "19.122664",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Istočna Ilidža",
@@ -11866,7 +12777,8 @@ export const schools = [
     Longitude: "18.364128",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 28. juni",
@@ -11879,7 +12791,8 @@ export const schools = [
     Longitude: "18.364119",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja stručna škola Jovan Dučić",
@@ -11892,7 +12805,8 @@ export const schools = [
     Longitude: "17.376445",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita srednja škola Nikola Tesla",
@@ -11905,7 +12819,8 @@ export const schools = [
     Longitude: "16.806854",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar",
@@ -11918,7 +12833,8 @@ export const schools = [
     Longitude: "16.545945",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Nikola Tesla",
@@ -11931,7 +12847,8 @@ export const schools = [
     Longitude: "17.372273",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Vuk Karadžić",
@@ -11944,7 +12861,8 @@ export const schools = [
     Longitude: "18.844861",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola Svetozar Ćorović",
@@ -11957,7 +12875,8 @@ export const schools = [
     Longitude: "18.090702",
     Phone: "",
     Email: "",
-    Url: "https://sscsvetozarcorovic.org/"
+    Url: "https://sscsvetozarcorovic.org/",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Milići",
@@ -11970,7 +12889,8 @@ export const schools = [
     Longitude: "19.069596",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Jovan Cvijić",
@@ -11983,7 +12903,8 @@ export const schools = [
     Longitude: "18.309633",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija",
@@ -11996,7 +12917,8 @@ export const schools = [
     Longitude: "17.086352",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mašinska škola",
@@ -12009,7 +12931,8 @@ export const schools = [
     Longitude: "17.08652",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar šAleksa Šantić",
@@ -12022,7 +12945,8 @@ export const schools = [
     Longitude: "18.114985",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija Petar Kočić",
@@ -12035,7 +12959,8 @@ export const schools = [
     Longitude: "16.373509",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita škola Đuro Radmanović",
@@ -12048,7 +12973,8 @@ export const schools = [
     Longitude: "16.373412",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar šPale",
@@ -12061,7 +12987,8 @@ export const schools = [
     Longitude: "18.567489",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Petrovo",
@@ -12074,7 +13001,8 @@ export const schools = [
     Longitude: "18.360079",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija Sveti Sava",
@@ -12087,7 +13015,8 @@ export const schools = [
     Longitude: "16.709974",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Elektrotehnička škola",
@@ -12100,7 +13029,8 @@ export const schools = [
     Longitude: "16.708502",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mašinska škola",
@@ -12113,7 +13043,8 @@ export const schools = [
     Longitude: "16.708597",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Poljoprivredno-prehrambena škola",
@@ -12126,7 +13057,8 @@ export const schools = [
     Longitude: "16.707727",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Ugostiteljsko-ekonomska škola",
@@ -12139,7 +13071,8 @@ export const schools = [
     Longitude: "16.710252",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Medicinsko-tehnološka i građevinska škola",
@@ -12152,7 +13085,8 @@ export const schools = [
     Longitude: "16.707791",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja i osnovna muzička škola",
@@ -12165,7 +13099,8 @@ export const schools = [
     Longitude: "16.7101",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Specijalna osnovna i srednja škola Đorđe Natošević",
@@ -12178,7 +13113,8 @@ export const schools = [
     Longitude: "16.710738",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija",
@@ -12191,7 +13127,8 @@ export const schools = [
     Longitude: "17.670629",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola Prnjavor",
@@ -12204,7 +13141,8 @@ export const schools = [
     Longitude: "17.670431",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Sednjoškolski centar Lazar Đukić",
@@ -12217,7 +13155,8 @@ export const schools = [
     Longitude: "16.818405",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola 27. januarš Rogatica",
@@ -12230,7 +13169,8 @@ export const schools = [
     Longitude: "19.001498",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar",
@@ -12243,7 +13183,8 @@ export const schools = [
     Longitude: "19.369462",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola Sokolac",
@@ -12256,7 +13197,8 @@ export const schools = [
     Longitude: "18.793426",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješoviti školski centar Petar Kočić",
@@ -12269,7 +13211,8 @@ export const schools = [
     Longitude: "17.519864",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Srebrenica",
@@ -12282,7 +13225,8 @@ export const schools = [
     Longitude: "19.294415",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Mješovita škola Nikola Tesla",
@@ -12295,7 +13239,8 @@ export const schools = [
     Longitude: "17.859599",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja mješovita škola Jovan Dučić",
@@ -12308,7 +13253,8 @@ export const schools = [
     Longitude: "17.859432",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Gimnazija Jovan Dučić",
@@ -12321,7 +13267,8 @@ export const schools = [
     Longitude: "18.34018",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Centar srednjih škola",
@@ -12334,7 +13281,8 @@ export const schools = [
     Longitude: "",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Tehnička škola",
@@ -12347,7 +13295,8 @@ export const schools = [
     Longitude: "18.339652",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola Mihajlo Petrović Alas",
@@ -12360,7 +13309,8 @@ export const schools = [
     Longitude: "18.340144",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Foča",
@@ -12373,7 +13323,8 @@ export const schools = [
     Longitude: "18.783925",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Bogoslovija Sveti Petar Dabrobosanski",
@@ -12386,7 +13337,8 @@ export const schools = [
     Longitude: "18.79976",
     Phone: "38758212030",
     Email: "bogoslovija.svetipetar@gmail.com",
-    Url: "https://www.bogoslovijafoca.org/"
+    Url: "https://www.bogoslovijafoca.org/",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar Petar Petrović Njegoš",
@@ -12399,7 +13351,8 @@ export const schools = [
     Longitude: "19.071945",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola",
@@ -12412,7 +13365,8 @@ export const schools = [
     Longitude: "17.321222",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola Nikola Tesla",
@@ -12425,7 +13379,8 @@ export const schools = [
     Longitude: "18.47291",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednja škola Petar II Petrović Njegoš",
@@ -12438,7 +13393,8 @@ export const schools = [
     Longitude: "18.860268",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Srednjoškolski centar",
@@ -12451,6 +13407,7 @@ export const schools = [
     Longitude: "17.087343",
     Phone: "",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
 ]

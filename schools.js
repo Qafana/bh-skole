@@ -10,7 +10,8 @@ export const schools = [
     Longitude: "18.27962994",
     Phone: "38733230294",
     Email: "",
-    Url: ""
+    Url: "",
+    Owner: ""
   },
   {
     Name: "Centar 'Vladimir Nazor'",

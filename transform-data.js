@@ -10,7 +10,7 @@ export const exportToJson = (data, filename) => {
 
 export const exportToCsv = (data, filename) => {
   const csvRows = [
-    'Name,Type,Address,Entity,Canton,Municipality,Latitude,Longitude,Phone,Email,Url'
+    'Name,Type,Address,Entity,Canton,Municipality,Latitude,Longitude,Phone,Email,Url,Owner'
   ]; // Header row
   data.forEach(item => {
     const row = [
@@ -24,7 +24,8 @@ export const exportToCsv = (data, filename) => {
       item.Longitude,
       item.Phone,
       item.Email,
-      item.Url || item.WebAddress || '' // Adjust for Url or WebAddress
+      item.Url || item.WebAddress || '', // Adjust for Url or WebAddress
+      item.Owner
     ].map(field => `"${field}"`); // Enclose each field in quotes
     csvRows.push(row.join(','));
   });
